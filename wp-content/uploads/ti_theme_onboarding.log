@@ -1,0 +1,26 @@
+[23/May/2022:13:31:02] (I): WordPress Instance Info:
+[23/May/2022:13:31:02] (I): Home URL : https://ep-2022-ironbank.azurewebsites.net
+[23/May/2022:13:31:02] (I): Site URL : https://ep-2022-ironbank.azurewebsites.net
+[23/May/2022:13:31:02] (I): WordPress Version : 5.9.3
+[23/May/2022:13:31:02] (I): Onboarding Version : 1.1.21
+[23/May/2022:13:31:02] (I): Multisite : No
+[23/May/2022:13:31:02] (I): Server Info : Microsoft-IIS/10.0
+[23/May/2022:13:31:02] (I): PHP Version : 7.4.25
+[23/May/2022:13:31:02] (I): HTTPS : Yes
+[23/May/2022:13:31:02] (I): PHP Max Execution Time : 300
+[23/May/2022:13:31:02] (I): PHP Max Input Vars : 1000
+[23/May/2022:13:31:02] (I): Max Upload Size : 8388608
+[23/May/2022:13:31:02] (I): Plugins:
+[23/May/2022:13:31:02] (I): [PLUGIN] Contact Form 7 : v5.5.6.1 (Takayuki Miyoshi)
+[23/May/2022:13:31:02] (I): [PLUGIN] Elementor : v3.6.5 (Elementor.com)
+[23/May/2022:13:31:02] (I): [PLUGIN] Essential Addons for Elementor : v5.1.2 (WPDeveloper)
+[23/May/2022:13:31:02] (I): [PLUGIN] Insert Headers and Footers : v1.6.2 (WPBeginner)
+[23/May/2022:13:31:02] (I): [PLUGIN] Jetpack : v10.9.1 (Automattic)
+[23/May/2022:13:31:02] (I): [PLUGIN] Members : v3.2.1 (MemberPress)
+[23/May/2022:13:31:02] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v2.0.4 (ThemeIsle)
+[23/May/2022:13:31:02] (I): [PLUGIN] Templates Patterns Collection : v1.1.21 (ThemeIsle)
+[23/May/2022:13:31:02] (I): [PLUGIN] Ultimate Addons for Gutenberg : v1.25.4 (Brainstorm Force)
+[23/May/2022:13:31:02] (I): [PLUGIN] WooCommerce Stripe Gateway : v6.4.0 (WooCommerce)
+[23/May/2022:13:31:02] (I): [PLUGIN] WooCommerce PayPal Payments : v1.8.0 (WooCommerce)
+[23/May/2022:13:31:02] (I): [PLUGIN] WooCommerce : v6.5.1 (Automattic)
+[23/May/2022:13:31:02] (I): [PLUGIN] WPForms Lite : v1.7.4.2 (WPForms)

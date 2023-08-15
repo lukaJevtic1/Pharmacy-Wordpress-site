@@ -1,0 +1,4 @@
+2022-05-30T17:39:42+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\home\site\wwwroot\wp-admin\includes\class-wp-filesystem-direct.php on line 369
+
+2022-05-30T18:11:54+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\home\site\wwwroot\wp-admin\includes\class-wp-filesystem-direct.php on line 260
+

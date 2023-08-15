@@ -1,0 +1,2 @@
+30-05-2022 18:15:57 - ERROR - 7.4.6 - 20.2 MB/256 MB - adminIvan > Missing block.php file in C:/home/site/wwwroot/wp-content/plugins/newsletter/emails/blocks (1) - 
+30-05-2022 18:15:57 - ERROR - 7.4.6 - 20.2 MB/256 MB - adminIvan > Missing block.php file in C:/home/site/wwwroot/wp-content/plugins/newsletter/emails (1) - 

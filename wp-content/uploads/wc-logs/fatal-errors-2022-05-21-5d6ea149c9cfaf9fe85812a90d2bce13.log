@@ -1,0 +1,4 @@
+2022-05-21T15:37:23+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\home\site\wwwroot\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-05-21T16:07:46+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\home\site\wwwroot\wp-admin\includes\class-wp-filesystem-direct.php on line 311
+

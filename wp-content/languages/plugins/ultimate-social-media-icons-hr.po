@@ -1,0 +1,3294 @@
+# Translation of Plugins - Social Media Share Buttons &amp; Social Sharing Icons - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - Social Media Share Buttons &amp; Social Sharing Icons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-04 21:50:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Social Media Share Buttons &amp; Social Sharing Icons - Stable (latest release)\n"
+
+#: views/sfsi_section_for_premium.php:112
+msgid "..only 29.98 USD (includes support and updates for six months, and after that it will not be deactivated, so you can just keep using it!)"
+msgstr "..samo 29.98 USD (uključena podrška i ažuriranja tijekom 6 mjeseci, a nakon toga neće biti deaktivirano, tako da možete samo nastaviti koristiti!)"
+
+#: views/sfsi_option_view6.php:230
+msgid "*All icons have «sharing» feature enabled by default. If you want to give them a different function (e.g link to your Facebook page) then please click on «Define url» next to the icon."
+msgstr "*Sve ikone imaju mogućnost «dijeli» omogućene po zadanom. Ako im želite dodijeliti drugu funkciju (npr. link na vašu Facebook stranicu) molimo kliknite na «Definiraj Url» pokraj ikone."
+
+#: views/sfsi_option_view2.php:654
+msgid "When clicked on, users will get directed to your Snapchat page."
+msgstr "Kad se klikne, korisnik će biti prebačen na vašu Snapchat stranicu."
+
+#: views/sfsi_option_view2.php:146
+msgid "Learn more."
+msgstr "Saznaj više."
+
+#: views/sfsi_options_view.php:204
+msgid "Optional"
+msgstr "Opcionalno"
+
+#: views/sfsi_options_view.php:130
+msgid "Learn More"
+msgstr "Saznaj više"
+
+#: views/sfsi_options_view.php:109 views/sfsi_options_view.php:165
+msgid "If you want %1$smore likes & shares%2$s, more placement options, better sharing features (eg: define the text and image that gets shared), optimization for mobile, %3$smore icon design styles,%4$sanimated icons,%5$sthemed icons,%6$s and %7$smuch more%8$s, then %9$sgo premium%10$s."
+msgstr "Ako želite %1$sviše lajkova i dijeljenja%2$s, više opcija pozicioniranja, bolje mogućnosti dijeljenja (npr. definirajte tekst i sliku koja se dijeli), optimizaciju za mobitele %3$sviše stilova dizajniranja ikona,%4$sanimirane ikone, %5$stematske ikone,%6$s i %7$spuno više%8$s, tada %9$sprijeđite na premium%10$s."
+
+#: views/sfsi_options_view.php:100
+msgid "If you face any issue, please ask in %1$sSupport Forum%2$s. We'll try to respond quickly. Thank you!"
+msgstr "Ako se suočite s ikakvim problemom, molimo javite se na %1$sForum podrške%2$s. Nastojati ćemo odgovoriti što brže. Hvala!"
+
+#: views/sfsi_options_view.php:87
+msgid "Welcome to the Ultimate Social Icons and Share Plugin!"
+msgstr "Dobrodošli na Ultimate Social Icons and Share Plugin!"
+
+#: views/subviews/que4/banner.php:5
+msgid "%1$sNew%2$s In our Premium Plugin we added:"
+msgstr "%1$sNovo%2$s U naš Premium Plugin smo dodali:"
+
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:32
+msgid "Go to the widget area and drag & drop it where you want to have it!"
+msgstr "Idite na područje widgeta i povucite i ispustite gdje god želite!"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:222
+msgid "Bottom"
+msgstr "Podnožje"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:219
+msgid "Top"
+msgstr "Vrh"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:215
+msgid "Placement of (horizontal) sticky bar:"
+msgstr "Postavljanje (horizontalne) ljepljive trake"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:207
+msgid "Definition of “Mobile”: Screens smaller than"
+msgstr "Definicija ''Mobilne'': Zasloni manji od"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:185
+msgid "The sticky bar is always aligned centrally (vertically). If you want to move it higher or lower, please fill the above. "
+msgstr "Ljepljiva traka je uvijek poravnata na centru (vertikalno). Ako je želite pomaknuti viiše ili niže, molimo ispunite iznad."
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:177
+msgid "down"
+msgstr "dolje"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:174
+msgid "up"
+msgstr "gore"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:170
+msgid "more"
+msgstr "više"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:167
+msgid "Adjust positioning: move the bar… "
+msgstr "Prilagodi pozicioniranje: pomakni traku..."
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:150
+msgid "Placement of (vertical) sticky bar:"
+msgstr "Postavljanje (vertikalne) ljepljive trake:"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:144
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:209
+msgid "pixels (width)"
+msgstr "pixeli (širina)"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:142
+msgid "Definition of “Desktop”: Screens larger than"
+msgstr "Definicija ''Desktop-a': Zasloni veći od"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:125
+msgid "Show the bar on:"
+msgstr "Prikaži traku na:"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:78
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:94
+msgid "Define url*"
+msgstr "Definirajte URL*"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:61
+msgid "Select icons:"
+msgstr "Odaberite ikone:"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:55
+msgid "This is independent from the icons selected elsewhere in the plugin."
+msgstr "Neovisno o odabranim ikonama negdje drugo u programu."
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:53
+msgid "Sticky bar"
+msgstr "Ljepljiva traka"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:174
+msgid "Need different selections for mobile?"
+msgstr "Trebate drugačije postavke za mobitel?"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:160
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:44
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:50
+msgid "Horizontally"
+msgstr "Horizontalno"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:155
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:40
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:46
+msgid "Show icons"
+msgstr "Prikaži ikone"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:148
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:34
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:40
+msgid "Alignments:"
+msgstr "Poravnanja:"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:138
+msgid "(still visible if a user scrolls down)"
+msgstr "(i dalje vidljivo ukoliko se korisnik pomakne prema dolje)"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:137
+msgid "Stay at the same place B"
+msgstr "Ostaje na istom mjestu B"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:126
+msgid "(not visible if a user scrolls down)"
+msgstr "(nije vidljivo ukoliko se korisnik pomakne prema dolje)"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:125
+msgid "Stay at the same place A"
+msgstr "Ostaje na istom mjestu A"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:117
+msgid "Float"
+msgstr "Pluta"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:112
+msgid "Make icons…"
+msgstr "Napravi ikone..."
+
+#: views/sfsi_question3.php:117
+msgid "Show icons on all except the following pages (Exclusion rules)"
+msgstr "Prikaži ikone na svima osim na sljedećim stranicama (Pravilo isključenja)"
+
+#: views/sfsi_question3.php:104
+msgid "Only show icons on certain pages (Inclusion rules)"
+msgstr "Prikaži ikone samo na određenim stranicama (pravilo uključivanja)"
+
+#: views/sfsi_question3.php:92
+msgid "No restrictions"
+msgstr "Nema ograničenja"
+
+#: views/sfsi_question3.php:82
+msgid "Include or exclude pages where icons should show"
+msgstr "Uključi ili uključi stranice gdje bi se ikone trebale prikazivati"
+
+#: views/sfsi_pop_content.php:639
+msgid "Still have questions? Please ask!"
+msgstr "Imate još pitanja? Molimo pitajte!"
+
+#: views/sfsi_pop_content.php:633
+msgid "We provide a %1$s14 day money-back guarantee%2$s if you‘re not satisfied for any reason"
+msgstr "Nudimo %1$s14-dnevnu garanciju povrata novca%2$s ako iz nekog razloga niste zadovoljni"
+
+#: views/sfsi_pop_content.php:626
+msgid "One license is valid for one site (as support is included), but we offer %1$s20&#37; discounts%2$s for all your following purchases"
+msgstr "Jedna licenca je valjana za jednu stranicu (podrška je uključena), ali nudimo %1$s20&#37; popusta%2$s za sve vaše buduće kupnje"
+
+#: views/sfsi_pop_content.php:619
+msgid "%1$sUse it for lifetime:%2$s Support and updates are limited to 6 months, however after that it will not be disabled, you can keep using the plugin"
+msgstr "%1$sKoristite doživotno::%2$s Podrška i ažuriranja su ograničena na 6 mjeseci, iako nakon toga neće biti onemogućeno, tako da možete nastaviti koristiti plugin"
+
+#: views/sfsi_pop_content.php:615
+msgid "The plugin is priced really fairly - click on the payment options above to see the price"
+msgstr "Cijena dodatka je stvarno poštena - kliknite na opcije plaćanja gore da vidite cijenu"
+
+#: views/sfsi_pop_content.php:609
+msgid "You‘ll get access to %1$sall premium features%2$s"
+msgstr "Dobit ćete pristup za %1$ssve premium mogućnosti%2$s"
+
+#: views/sfsi_pop_content.php:604
+msgid "Key points"
+msgstr "Ključne točke"
+
+#: views/sfsi_pop_content.php:292 views/sfsi_pop_content.php:296
+#: views/sfsi_pop_content.php:308 views/sfsi_pop_content.php:309
+#: views/sfsi_pop_content.php:313 views/sfsi_pop_content.php:325
+#: views/sfsi_pop_content.php:326 views/sfsi_pop_content.php:330
+#: views/sfsi_pop_content.php:342 views/sfsi_pop_content.php:343
+#: views/sfsi_pop_content.php:347 views/sfsi_pop_content.php:361
+#: views/sfsi_pop_content.php:362 views/sfsi_pop_content.php:368
+#: views/sfsi_pop_content.php:381 views/sfsi_pop_content.php:382
+#: views/sfsi_pop_content.php:388 views/sfsi_pop_content.php:401
+#: views/sfsi_pop_content.php:402 views/sfsi_pop_content.php:408
+#: views/sfsi_pop_content.php:421 views/sfsi_pop_content.php:422
+#: views/sfsi_pop_content.php:428 views/sfsi_pop_content.php:441
+#: views/sfsi_pop_content.php:442 views/sfsi_pop_content.php:448
+#: views/sfsi_pop_content.php:461 views/sfsi_pop_content.php:462
+#: views/sfsi_pop_content.php:468 views/sfsi_pop_content.php:481
+#: views/sfsi_pop_content.php:482 views/sfsi_pop_content.php:488
+#: views/sfsi_pop_content.php:501 views/sfsi_pop_content.php:502
+#: views/sfsi_pop_content.php:508 views/sfsi_pop_content.php:521
+#: views/sfsi_pop_content.php:522 views/sfsi_pop_content.php:528
+#: views/sfsi_pop_content.php:541 views/sfsi_pop_content.php:542
+#: views/sfsi_pop_content.php:548
+msgid "Delete"
+msgstr "Izbriši"
+
+#: views/sfsi_pop_content.php:291
+msgid "Update"
+msgstr "Ažuriraj"
+
+#: views/sfsi_pop_content.php:278
+msgid "3. Click on"
+msgstr "3. Klikni na"
+
+#: views/sfsi_pop_content.php:260
+msgid "Ok, Review it"
+msgstr "Ok, provjeri"
+
+#: views/sfsi_other_banners.php:311
+msgid "%1$sGet more visibility on Twitter%2$s by displaying more information than a standard Tweet. Attach images and automatically pull the titles & links of the posts to make them much more attractive and visual with the Ultimate Social Media %3$sPremium Plugin.%4$s"
+msgstr "%1$sOstvarite veću vidljivost na Twitteru%2$s prikazom više informacija od standardnog Tweeta. Priložite slike i automatski povucite naslove i veze postova kako biste ih učinili mnogo privlačnijim i vizualnijim uz Ultimate Social Media %3$sPremium Plugin.%4$s"
+
+#: views/sfsi_other_banners.php:269
+msgid "%1$sGet more sales%2$s with the Ultimate Social Media %3$sPremium Plugin%4$s by adding social share icons to your product pages. More shares equals more publicity, and more publicity means more new customers."
+msgstr "%1$sOstvarite veću prodaju%2$s s Ultimate Social Media %3$sPremium dodatkom%4$s dodajući ikone dijeljenja na stranicama proizvoda. Više dijeljenja znači veću publiku, a veća publika znači više novih kupaca."
+
+#: views/sfsi_other_banners.php:183
+msgid "%1$sMake sure your site is GDPR compliant.%2$s As part of the Ultimate Social Media Premium Plugin you can request a review (at no extra charge) to check if your sharing icons are GDPR compliant."
+msgstr "%1$sProvjerite da je vaša stranica u skladu s GDPR-om.%2$s Kao dio Ultimate Social Media premium dodatka možete zatražiti provjeru (bez dodatnih naknada) da li su vaše ikone dijeljenja u skladu s GDPR-om."
+
+#: views/sfsi_other_banners.php:93
+msgid "%1$sGet more traffic from your pictures –%2$s the %3$sUltimate Social Media Premium Plugin%4$s works excellently in conjunction with the %5$s plugin and allows to show a %6$sPinterest save-icon%7$s after users move over your pictures. This increases sharing activity significantly."
+msgstr "%1$sOstvarite više prometa od vaših slika-%2$s %3$sUltimate Social Media Premium dodatak%4$s radi izvrsno u kombinaciji s dodatkom %5$s i omogućuje prikaz %6$sPinterest ikone za spremanje %7$s nakon što korisnici pređu preko vaših slika. To značajno povećava aktivnost dijeljenja."
+
+#: views/sfsi_other_banners.php:47
+msgid "%1$sYou’re on https,%2$s that’s great! However: we noticed that you still have share & like counts (from social media) on your old (http://) urls. If you don’t want to lose them, check out this plugin which has a share count recovery feature."
+msgstr "%1$sNa https,%2$s to je super! Međutim: primijetili smo da još uvijek imate broj dijeljenja i sviđanja (s društvenih medija) na svojim starim (http://) URL-ovima. Ako ih ne želite izgubiti, pogledajte ovaj dodatak koji ima značajku oporavka broja udjela."
+
+#: views/sfsi_option_view7.php:610
+msgid "Do you want to set a limit on how often the pop-up is shown?"
+msgstr "Želite li postaviti limit koliko često će se pojavljivati pop-up?"
+
+#: views/sfsi_option_view7.php:601
+msgid "When the user clicks outside of the pop-up area"
+msgstr "Kada korisnik klikne izvan pop-up zone"
+
+#: views/sfsi_option_view7.php:588
+msgid "When user scrolls"
+msgstr "Kada se korisnik pomakne prema dolje"
+
+#: views/sfsi_option_view7.php:580
+msgid "After showing the pop-up, when shall it disappear again?"
+msgstr "Nakon prikazivanja pop-up, kad bi trebao nestati opet?"
+
+#: views/sfsi_option_view7.php:568
+msgid "When the user leaves the page (i.e. moves over the top part in their browser)"
+msgstr "Kad korisnik napusti stranicu (npr. pomakne se na gornji dio u svojem pregledniku)"
+
+#: views/sfsi_option_view7.php:528
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:87
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:97
+msgid "Show on:"
+msgstr "Prikaži na:"
+
+#: views/sfsi_option_view7.php:482
+msgid "Selected pages"
+msgstr "Odabrane stranice"
+
+#: views/sfsi_option_view7.php:479
+msgid "All blog posts"
+msgstr "Sve objave bloga"
+
+#: views/sfsi_option_view6.php:692
+msgid "Share count text:"
+msgstr "Tekst brojanja dijeljenja:"
+
+#: views/sfsi_option_view6.php:688
+msgid "Font color (of counts):"
+msgstr "Boja fonta (brojenja):"
+
+#: views/sfsi_option_view6.php:671
+msgid "Show the total share count on the left of your icons. It will only be visible if the individual counts are set up under <a href=\"#\" onclick=\"event.preventDefault();sfsi_scroll_to_div('ui-id-9')\" >question 5</a>."
+msgstr "Prikažite ukupan broj udjela na lijevoj strani vaših ikona. Bit će vidljiv samo ako su pojedinačni brojevi postavljeni pod <a href=\"#\" onclick=\"event.preventDefault();sfsi_scroll_to_div('ui-id-9')\" >pitanje 5</a>."
+
+#: views/sfsi_option_view6.php:669
+msgid "Share count"
+msgstr "Brojač dijeljenja"
+
+#: views/sfsi_option_view6.php:645
+msgid "Below Icon"
+msgstr "Ikona ispod"
+
+#: views/sfsi_option_view6.php:640
+msgid "Above Icon"
+msgstr "Ikona iznad"
+
+#: views/sfsi_option_view6.php:526
+msgid "You can also show the icon by using the shortcode [DISPLAY_RESPONSIVE_ICONS] (or place the string &lt;?php echo DISPLAY_RESPONSIVE_ICONS(); ?&gt; into your theme codes)."
+msgstr "Također možete prikazati ikonu koristeći shortcode [DISPLAY_RESPONSIVE_ICONS] (ili postavite string &lt;?php echo DISPLAY_RESPONSIVE_ICONS(); ?&gt; u vaše tematske kodove."
+
+#: views/sfsi_option_view6.php:514 views/sfsi_option_view7.php:543
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:109
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:200
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:119
+msgid "Mobile"
+msgstr "Mobitel"
+
+#: views/sfsi_option_view6.php:501 views/sfsi_option_view7.php:536
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:96
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:135
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:106
+msgid "Desktop"
+msgstr "Radna površina"
+
+#: views/sfsi_option_view6.php:490
+msgid "Devices to show icons:"
+msgstr "Uređaji za prikazivanje ikona:"
+
+#: views/sfsi_option_view6.php:481
+msgid "After product descriptions"
+msgstr "Opisi nakon proizvoda"
+
+#: views/sfsi_option_view6.php:471
+msgid "Before product descriptions"
+msgstr "Opisi prije proizvoda"
+
+#: views/sfsi_option_view6.php:462
+msgid "On WooComerce Product Pages"
+msgstr "Na WooComerce stranicama proizvoda"
+
+#: views/sfsi_option_view6.php:458
+msgid "At bottom of pages"
+msgstr "Na dnu stranica"
+
+#: views/sfsi_option_view6.php:446
+msgid "At top of pages"
+msgstr "Na vrhu stranica"
+
+#: views/sfsi_option_view6.php:437
+msgid "Other pages"
+msgstr "Druge stranice"
+
+#: views/sfsi_option_view6.php:412
+msgid "Posts overview pages (blog homepage)"
+msgstr "Stranice s pregledom postova (početna stranica bloga)"
+
+#: views/sfsi_option_view6.php:408 views/sfsi_option_view6.php:432
+msgid "After posts"
+msgstr "Iza objava"
+
+#: views/sfsi_option_view6.php:396 views/sfsi_option_view6.php:421
+msgid "Before posts"
+msgstr "Prije objava"
+
+#: views/sfsi_option_view6.php:387
+msgid "Single post pages"
+msgstr "Stranice pojedinačnih postova"
+
+#: views/sfsi_option_view6.php:385
+msgid "Pages to show icons:"
+msgstr "Stranice za prikazivanje ikona:"
+
+#: views/sfsi_option_view6.php:383
+msgid "Display options"
+msgstr "Opcije prikaza"
+
+#: views/sfsi_option_view5.php:1011
+msgid "Automatic (Using WPML)"
+msgstr "Automatski (Koristeći WPML)"
+
+#: views/sfsi_option_view5.php:999
+msgid "Language for Like, Share and Subscribe buttons (Facebook, Twitter, Youtube):"
+msgstr "Jezik za Like, Dijeli i Pretplati se gumbe (Facebook, Twitter, Youtube):"
+
+#: views/sfsi_option_view5.php:830
+msgid "Linkedin «Visit»-icon:"
+msgstr "Linkedin «Posjeti»-ikona:"
+
+#: views/sfsi_option_view5.php:803
+msgid "Twitter «Visit»-icon:"
+msgstr "Twitter «Posjeti»-icon:"
+
+#: views/sfsi_option_view5.php:638
+msgid "Youtube «Visit»-icon:"
+msgstr "Youtube «Posjeti»-ikona:"
+
+#: views/sfsi_option_view5.php:609
+msgid "Facebook «Visit»-icon:"
+msgstr "Facebook «Posjeti»-ikona:"
+
+#: views/sfsi_option_view5.php:602
+msgid "Follow"
+msgstr "Prati"
+
+#: views/sfsi_option_view5.php:589
+msgid "Follow-button:"
+msgstr "Prati-gumb:"
+
+#: views/sfsi_option_view5.php:585
+msgid "Language & Button-text"
+msgstr "Jezik & Gumb-tekst"
+
+#: views/sfsi_option_view5.php:381 views/sfsi_option_view5.php:650
+#: views/sfsi_option_view5.php:842
+msgid "Automatic (<< Visit me >>)"
+msgstr "Automatski (<< Visit me >>)"
+
+#: views/sfsi_option_view5.php:377 views/sfsi_option_view5.php:647
+#: views/sfsi_option_view5.php:838
+msgid "Automatic (<< Visit us >>)"
+msgstr "Automatski (<< Visit us >>)"
+
+#: views/sfsi_option_view5.php:309
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:57
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:63
+msgid "Need different selection for mobile ?"
+msgstr "Trebate drugačije postavke za mobitel?"
+
+#: views/sfsi_option_view4.php:633
+msgid "Retrieve the number of pinterest followers"
+msgstr "Dohvatite broj pratitelja na pinterestu"
+
+#: views/sfsi_option_view4.php:620
+msgid "Retrieve the number of pins of board from your pinterest account"
+msgstr "Dohvatite broj pinova ploča sa vašeg pinterest profila"
+
+#: views/sfsi_option_view4.php:607
+msgid "Retrieve the number of Pinterest (+1) (on your blog)"
+msgstr "Dohvatite broj Pinteresta (+1) (na vašem blogu)"
+
+#: views/sfsi_option_view3.php:476
+msgid "Icons Only"
+msgstr "Samo ikone"
+
+#: views/sfsi_option_view3.php:386
+msgid "Flat Squared"
+msgstr "Flat Squared"
+
+#: views/sfsi_option_view3.php:380
+msgid "Flat Square"
+msgstr "Flat Square"
+
+#: views/sfsi_option_view3.php:77
+msgid "May increse the website's loading time slightly"
+msgstr "Može lagano povećati vrijeme učitavanja web stranice"
+
+#: views/sfsi_option_view3.php:76
+msgid "Animated Icons"
+msgstr "Animirane ikone"
+
+#: views/sfsi_option_view2.php:736
+msgid "Visit me on Tiktok:"
+msgstr "Posjetite me na TIktok-u:"
+
+#: views/sfsi_option_view2.php:719
+msgid "Contact us (on FB Messenger)"
+msgstr "Kontaktirajte nas (na FB Messengeru)"
+
+#: views/sfsi_option_view2.php:710
+msgid "Share my site with friends (on FB Messenger)"
+msgstr "Podijelite moju stranicu s prijateljima (na FB Messengeru)"
+
+#: views/sfsi_option_view2.php:706
+msgid "The Facebook Messenger icon can perform the following actions:"
+msgstr "Facebook Messenger ikona može izvoditi sljedeće akcije:"
+
+#: views/sfsi_option_view2.php:690
+msgid "Allow users to visit my Reddit Page"
+msgstr "Dopusti korisnicima da posjete moju Reddit stranicu"
+
+#: views/sfsi_option_view2.php:679
+msgid "Allow users to share the page via Reddit"
+msgstr "Dopusti korisnicima da podijele stranicu putem Reddita-a"
+
+#: views/sfsi_option_view2.php:639
+msgid "Subscribe to me (on OK)"
+msgstr "Pretplatite se (na OK)"
+
+#: views/sfsi_option_view2.php:626
+msgid "Like my site (on OK)"
+msgstr "Lajkajte moju stranicu (na OK)"
+
+#: views/sfsi_option_view2.php:601
+msgid "Share my blog with friends (on VK)"
+msgstr "Podijelite moj blog s prijateljima (na VK)"
+
+#: views/sfsi_option_view2.php:595
+msgid "Visit my VK page at:"
+msgstr "Posjeti moju VK stranicu na:"
+
+#: views/sfsi_option_view2.php:577
+msgid "Like my page with Sina Weibo"
+msgstr "Lajkajte moju stranicu sa Sina Weibo"
+
+#: views/sfsi_option_view2.php:564
+msgid "Share my blog on Sina Weibo"
+msgstr "Podijelite moj blog na Sina Weibo"
+
+#: views/sfsi_option_view2.php:554
+msgid "Visit my Sina Weibo page at:"
+msgstr "Posjeti moju Sina Weibo stranicu na:"
+
+#: views/sfsi_option_view2.php:550
+msgid "The Weibo icon can perform several actions:"
+msgstr "Weibo ikona može izvoditi nekoliko radnji:"
+
+#: views/sfsi_option_view2.php:534
+msgid "Allow users to send me a Whatsapp message"
+msgstr "Dopusti korisnicima da mi pošalju Whatsapp poruku"
+
+#: views/sfsi_option_view2.php:523
+msgid "Allow users to share the page via Whatsapp"
+msgstr "Dopustite korisnicima da dijele stranicu putem Whatsappa-a"
+
+#: views/sfsi_option_view2.php:501
+msgid "Follow me on WeChat"
+msgstr "Pratite me na WeChat"
+
+#: views/sfsi_option_view2.php:492
+msgid "Share my page on WeChat"
+msgstr "Podijeli moju stranicu na WeChat"
+
+#: views/sfsi_option_view2.php:488
+msgid "The WeChat icon can perform the following actions:"
+msgstr "WeChat ikona može izvoditi sljedeće radnje:"
+
+#: views/sfsi_option_view2.php:474
+msgid "Share my blog on Telegram"
+msgstr "Podijelite moj blog na Telegramu"
+
+#: views/sfsi_option_view2.php:451
+msgid "Message me on Telegram:"
+msgstr "Pošaljite mi poruku na Telegramu:"
+
+#: views/sfsi_option_view2.php:447
+msgid "The Telegram icon can perform the following actions:"
+msgstr "Telegram ikona može izvoditi sljedeće radnje:"
+
+#: views/sfsi_option_view2.php:315
+msgid "Twitter cards"
+msgstr "Twitter kartice"
+
+#: views/sfsi_option_view2.php:277
+msgid "Follow me on Facebook"
+msgstr "Pratite me na Facebook-u"
+
+#: views/sfsi_option_view2.php:270
+msgid "Share my blog with friends (on Facebook)"
+msgstr "Podijelite moj blog s prijateljima (na Facebook-u)"
+
+#: views/sfsi_option_view2.php:188
+msgid "Pick which icon you want to use:"
+msgstr "Odaberite koju ikonu želite koristiti:"
+
+#: views/sfsi_option_view2.php:183
+msgid "Share by email"
+msgstr "Podijeli putem e-maila"
+
+#: views/sfsi_option_view2.php:171
+msgid "(e.g. contact us or subscription page)"
+msgstr "(npr. kontaktirajte nas ili stranica za pretplatu)"
+
+#: views/sfsi_option_view2.php:169
+msgid "Link it to a certain page "
+msgstr "Link na određenu stranicu"
+
+#: views/sfsi_option_view2.php:157
+msgid "If people click on the icon an email will open with your email address already entered. This makes sense to use if you don’t offer a contact option anywhere else."
+msgstr "Ako korisnici kliknu na ikonu otvorit će se email s mail adresom koju ste već unijeli. To ima smisla ukoliko ne nudite opciju kontakta bilo gdje drugo."
+
+#: views/sfsi_option_view2.php:155
+msgid "Contact me: "
+msgstr "Kontaktirajte me:"
+
+#: views/sfsi_option_view2.php:144
+msgid "It also makes sense if you already offer an email newsletter."
+msgstr "Ima smisla i ako već nudite email newsletter."
+
+#: views/sfsi_option_view2.php:143
+msgid "Get full access now."
+msgstr "Ostvarite puni pristup sada."
+
+#: views/sfsi_option_view2.php:142
+msgid "If people subscribe they will receive your new posts automatically by email. The service is FREE and you get full access to your subscriber’s emails and interesting statistics: "
+msgstr "Ako se korisnici pretplate primat će vaše objave automatski putem e.maila. Usluga je BESPLATNA i dobit ćete puni pristup e-mailovima vaših pretplatnika i zanimljive statistike:"
+
+#: views/sfsi_option_view2.php:141
+msgid "Automatic updates for subscribers: "
+msgstr "Automatska ažuriranja za pretplatnike:"
+
+#: views/sfsi_option_view2.php:133
+msgid "Which action should the email icon perform?"
+msgstr "Koju radnju bi e-mail ikona trebala izvoditi?"
+
+#: views/sfsi_option_view1.php:679
+msgid "...and&nbsp;%1$smany more!%2$s&nbsp;See them&nbsp;%3$shere%4$s"
+msgstr "...i&nbsp;%1$spuno više!%2$s&nbsp;Pogledajte ih&nbsp;%3$sovdje%4$s"
+
+#: views/sfsi_option_view1.php:662 views/sfsi_option_view1.php:663
+msgid "TripAdvisor"
+msgstr "TripAdvisor"
+
+#: views/sfsi_option_view1.php:658 views/sfsi_option_view1.php:659
+msgid "Phone"
+msgstr "Mobitel"
+
+#: views/sfsi_option_view1.php:646 views/sfsi_option_view1.php:647
+msgid "Spotify"
+msgstr "Spotify"
+
+#: views/sfsi_option_view1.php:618 views/sfsi_option_view1.php:619
+msgid "Yum"
+msgstr "Yum"
+
+#: views/sfsi_option_view1.php:590 views/sfsi_option_view1.php:591
+msgid "Steem"
+msgstr "Steem"
+
+#: views/sfsi_option_view1.php:585 views/sfsi_option_view1.php:586
+msgid "Behance"
+msgstr "Behance"
+
+#: views/sfsi_option_view1.php:575 views/sfsi_option_view1.php:576
+msgid "Parler"
+msgstr "Parier"
+
+#: views/sfsi_option_view1.php:566 views/sfsi_option_view1.php:567
+msgid "iHeart"
+msgstr "iHeart"
+
+#: views/sfsi_option_view1.php:562 views/sfsi_option_view1.php:563
+msgid "Mix.com"
+msgstr "Mix.com"
+
+#: views/sfsi_option_view1.php:558 views/sfsi_option_view1.php:559
+msgid "iTalki"
+msgstr "iTalki"
+
+#: views/sfsi_option_view1.php:553 views/sfsi_option_view1.php:554
+msgid "Shopping cart"
+msgstr "Košarica"
+
+#: views/sfsi_option_view1.php:549 views/sfsi_option_view1.php:550
+msgid "Skyrock"
+msgstr "Skyrock"
+
+#: views/sfsi_option_view1.php:541
+msgid "%1$sNew%2$sIn our Premium Plugin we added icons for:"
+msgstr "%1$sNovo%2$s U naš Premium Plugin smo dodali ikone za:"
+
+#: views/sfsi_option_view1.php:359
+msgid "Show this icon if you have a TikTok account."
+msgstr "Prikažite ovu ikonu ako imate TikTok profil."
+
+#: views/sfsi_option_view1.php:356 views/sfsi_option_view2.php:731
+msgid "TikTok"
+msgstr "TikTok"
+
+#: views/sfsi_option_view1.php:347
+msgid "Show this icon if you have a Facebook account."
+msgstr "Prikažite ovu ikonu ako imate Facebook profil."
+
+#: views/sfsi_option_view1.php:344 views/sfsi_option_view2.php:703
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+#: views/sfsi_option_view1.php:335
+msgid "Show this icon if you have a Reddit account."
+msgstr "Prikažite ovu ikonu ako imate Reddit profil."
+
+#: views/sfsi_option_view1.php:323
+msgid "Show this icon if you have a Snapchat account."
+msgstr "Prikažite ovu ikonu ako imate Snapchat profil."
+
+#: views/sfsi_global_banners.php:341
+msgid "Apply it now"
+msgstr "Primjeni sada"
+
+#: views/sfsi_global_banners.php:328
+msgid "You’ve been using the %1$sUltimate Social media plugin%2$s for %3$sover half a year.%4$s That’s a long time!<br> Why not give yourself a treat and upgrade to premium? It has tons of benefits. As a %5$sTHANK YOU%6$s for your loyalty we’re happy to give you a %7$s20&#37; discount.%8$s"
+msgstr "Koristite %1$sUltimate Social media plugin%2$s već %3$sviše od pola godine.%4$sTo je dugo vremena!<br> Zašto se ne počastite premium verzijom? Ima hrpu pogodnosti. Kao %5$sZAHVALU%6$s za vašu vjernost rado ćemo vam dati %7$s20&#37; popust.%8$s"
+
+#: views/sfsi_global_banners.php:258
+msgid "%1$sMake sure your social media icons are GDPR compliant.%2$s You are using the %3$sUltimate Social Media Plugin%4$s – see more information about GDPR %5$shere.%6$s<br><br> If you don’t want to check GDPR compliance yourself: As part of the Ultimate Social Media Premium Plugin a GDPR review is done for you (at no extra charge)"
+msgstr "%1$sPobrinite se da su vaše ikone društvenih mreža u skladu s GDPR-om.%2$s Koristite %3$sUltimate Social Media Plugin%4$s - pogledajte više informacija o GDPR-u. %5$sovdje.%6$s<br><br> Ako ne želite sami provjeravati usklađenost s GDPR-om: Kao dio Ultimate Social Media dodatka provjera usklađenosti s GDPR-om je napravljena za vas (bez dodatne naknade)"
+
+#: views/sfsi_global_banners.php:223 views/sfsi_other_banners.php:224
+msgid "%1$smore traffic%2$s from more likes & shares with the %3$sUltimatelysocial Premium Plugin.%4$s Or get a %5$srefund%6$s within 20 days."
+msgstr "%1$sviše mprometa%2$s od više lajkova i dijeljenja s %3$sUltimatelysocial Premium Plugin.%4$s Ili ostvarite %5$spovrat%6$s u roku od 20 dana."
+
+#: views/sfsi_global_banners.php:190 views/sfsi_other_banners.php:139
+msgid "%1$sMake your website load faster –%2$s the Ultimate Social Media %3$sPremium Plugin%4$s is the most optimized sharing plugin for speed. It also includes support to help you optimize it for minimizing loading time"
+msgstr "%1$sUbrzajte učitavanje vaše web stranice –%2$s Ultimate Social Media %3$sPremium dodatak%4$s je najoptimiziraniji dodatak za dijeljenje za brzinu. Također uključuje podršku koja će vam pomoći da ga optimizirate za minimiziranje vremena učitavanja"
+
+#: views/sfsi_global_banners.php:156
+msgid "Your social media & sharing icons %1$sdon’t seem to show on mobile.%2$s If you want to increase sharing & traffic to your site it is very important that they do (>50% of traffic is from mobile).<br><br> Please go to the %3$sUltimate Social Media plugin%4$s page and ensure you made the right selections. If they still don’t show it could be an issue with your theme. Our premium plugin allows to place the icons separately for mobile, which always fixes this issue."
+msgstr "Vaše ikone društvenih mreža i dijeljenja %1$sse ne prikazuju na mobitelu.%2$s Ako želite povećati dijeljenja i promet na vašoj stranici, veoma je važno da se prikazuju (>50% prometa ide putem mobitela). <br><br> Molimo idite na %3$sUltimate Social Media plugin%4$s stranicu i provjerite da ste dobro odabrali. Ako se i dalje ne prikazuju možda je do vaše teme. Naš premium dodatak omogućuje da postavljate ikone odvojeno za mobitel, što uvijek popravlja problem."
+
+#: views/sfsi_global_banners.php:125
+msgid "%1$sGet more traffic from your pictures%2$s – the Ultimate Social Media Premium Plugin allows to show a Pinterest save-icon after users move over your pictures. This increases sharing activity significantly."
+msgstr "%1$sOstvarite više prometa od svojih slika%2$s – Ultimate Social Media Premium dodatak omogućuje prikazivanje ikone za spremanje na Pinterestu nakon što korisnici pređu preko vaših slika. To značajno povećava aktivnost dijeljenja."
+
+#: ultimate_social_media_icons.php:1170
+msgid "Settings"
+msgstr "Postavke"
+
+#: ultimate_social_media_icons.php:1159
+msgid "Need help?"
+msgstr "Trebate pomoć?"
+
+#: libs/sfsi_install_uninstall.php:2015
+msgid "Dismiss this notice."
+msgstr "Odbaci ovu obavijest."
+
+#: libs/sfsi_install_uninstall.php:2013
+msgid "I already did (don't show this again)"
+msgstr "Već jesam (ne prikazuj ponovno)"
+
+#: libs/sfsi_install_uninstall.php:2012
+msgid "No clue, let me give a 5-star rating instead"
+msgstr "Nemam pojma, dat ću vam 5 zvjezdica sada"
+
+#: libs/sfsi_install_uninstall.php:2011
+msgid "Yes, let me give feedback!"
+msgstr "Da, dat ću vam feedback!"
+
+#: libs/sfsi_install_uninstall.php:2009
+msgid "You've been using the Ultimate Social Media Plugin for more than 40 days. Great! If you're happy, could you please do us a BIG favor and let us know ONE thing we can improve in it?"
+msgstr "Koristite Ultimate Social Media dodatak više od 40 dana. Odlično! Ako ste zadovoljni, možete li nam učiniti veliku uslugu i reći nam što bismo mogli popraviti?"
+
+#: libs/sfsi_install_uninstall.php:1957
+msgid "Thank you for installing the %1$sUltimate Social Media Icons%2$s Plugin. Please go to the %3$splugin's settings page%4$s to configure it."
+msgstr "Hvala vam za instaliranje %1$sUltimate Social Media Ikona%2$s dodatka. Molimo idite na %3$sstranicu postavki dodatka%4$s da biste konfigurirali."
+
+#: libs/sfsi_install_uninstall.php:1786
+msgid "Error: It seems that CURL is disabled on your server. Please contact your server administrator to install / enable CURL."
+msgstr "Pogreška: Čini se da je CURL onemogućen na vašem poslužitelju. Molimo kontaktirajte administratora svog poslužitelja da biste instalirali / omogućili CURL."
+
+#: libs/sfsi_custom_social_sharing_data.php:291
+msgid "Ultimate Social Media – Define which pictures & texts will get shared"
+msgstr "Ultimate Social Media - Definirajte koje slike i tekstovi će se dijeliti"
+
+#: libs/sfsi_custom_social_sharing_data.php:272
+msgid "click to learn more"
+msgstr "kliknite da biste vidjeli više"
+
+#: libs/sfsi_custom_social_sharing_data.php:271
+msgid "Available in premium – "
+msgstr "Dostupno u premiumu -"
+
+#: libs/sfsi_custom_social_sharing_data.php:215
+msgid "Add Picture"
+msgstr "Dodaj Sliku"
+
+#: views/sfsi_option_view5.php:247
+msgid "%1$sNew:%2$s The Premium Plugin also allows you to define the vertical distance between the icons (and set this differently for mobile vs. desktop): %3$sGo premium now%4$s or learn more.%5$s"
+msgstr "%1$sNovo:%2$s Premium dodatak također vam omogućuje da definirate okomitu udaljenost između ikona (i postavite to drugačije za mobilne uređaje u odnosu na stolna računala): %3$sPrijeđite na Premium sada%4$s ili saznajte više.%5$s"
+
+#: views/sfsi_option_view5.php:236
+msgid "(Drag &amp; Drop)"
+msgstr "(Povuci &amp; Ispusti)"
+
+#: views/sfsi_option_view1.php:190 views/sfsi_option_view1.php:208
+#: views/sfsi_option_view1.php:223 views/sfsi_option_view1.php:240
+#: views/sfsi_option_view1.php:256 views/sfsi_option_view1.php:275
+#: views/sfsi_option_view1.php:291 views/sfsi_option_view1.php:309
+#: views/sfsi_option_view1.php:323 views/sfsi_option_view1.php:335
+#: views/sfsi_option_view1.php:347 views/sfsi_option_view1.php:359
+msgid "It depends: "
+msgstr "Ovisi:"
+
+#: views/sfsi_option_view6.php:311
+msgid "%1$sNew:%2$s We also added a Linkedin share-icon in the Premium Plugin. %3$sGo premium now%4$s or learn more.%5$s"
+msgstr "%1$sNovo:%2$s Dodali smo i Linkedin ikonu za dijeljenje u Premium dodatku. %3$sPrijeđite na Premium sada%4$s ili saznajte više.%5$s"
+
+#: views/sfsi_pop_content.php:640
+msgid "Close"
+msgstr "Zatvori"
+
+#: views/sfsi_pop_content.php:601
+msgid "Click will establish a connection to Sellcodes.com"
+msgstr "Klikom ćete uspostaviti vezu sa Sellcodes.com"
+
+#: views/sfsi_pop_content.php:584
+msgid "How do you want to pay?"
+msgstr "Kako želite platiti?"
+
+#: views/sfsi_pop_content.php:557
+msgid "I'm done!"
+msgstr "Gotov sam!"
+
+#: views/sfsi_option_view5.php:992 views/sfsi_pop_content.php:394
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: views/sfsi_option_view6.php:207 views/sfsi_pop_content.php:354
+msgid "Share"
+msgstr "Podijeli"
+
+#: views/sfsi_pop_content.php:278
+msgid " Insert into post "
+msgstr "Umetni u objavu"
+
+#: views/sfsi_pop_content.php:277
+msgid "2. Upload the icon into the media gallery"
+msgstr "2. Učitajte ikonu u galeriju medija"
+
+#: views/sfsi_pop_content.php:276
+msgid " below"
+msgstr "ispod"
+
+#: views/sfsi_pop_content.php:276 views/sfsi_pop_content.php:295
+msgid "Upload"
+msgstr "Učitaj"
+
+#: views/sfsi_pop_content.php:276
+msgid "1. Click ons"
+msgstr "1. Klinknite na"
+
+#: views/sfsi_pop_content.php:273
+msgid "Here you can upload custom icons which perform the same actions as the standard icons."
+msgstr "Ovdje možete prenijeti prilagođene ikone koje izvršavaju iste radnje kao i standardne ikone."
+
+#: views/sfsi_pop_content.php:271
+msgid "Upload custom icons"
+msgstr "Prenesi prilagođene ikone"
+
+#: views/sfsi_pop_content.php:261
+msgid "Don’t review and exit"
+msgstr "Nemoj ocijeniti i izađi"
+
+#: views/sfsi_pop_content.php:259
+msgid "You’re a toughie. Last try: As a minimum, could you please review this plugin (with 5 stars)? It only takes a minute. Thank you! "
+msgstr "Ti si žilavac. Posljednji pokušaj: Možeš li samo ocijeniti ovaj dodatak (s 5 zvjezdica)? Potrebna je samo minuta. Hvala ti!"
+
+#: views/sfsi_pop_content.php:253
+msgid "Don’t activate link"
+msgstr "nemoj aktivirati link"
+
+#: views/sfsi_pop_content.php:252
+msgid "Ok, activate link"
+msgstr "Ok, aktiviraj link"
+
+#: views/sfsi_pop_content.php:250
+msgid "Ok, fine, however for using this plugin for FREE, please support us by activating a link back to our site:"
+msgstr "Ok, u redu, međutim za BESPLATNO korištenje ovog dodatka, molimo podržite nas aktiviranjem linka natrag na našim stranicama:"
+
+#: views/sfsi_pop_content.php:244
+msgid "Deactivate it"
+msgstr "Deaktiviraj"
+
+#: views/sfsi_pop_content.php:243
+msgid "I want to see how it works"
+msgstr "Želim vidjeti kako funkcionira"
+
+#: views/sfsi_pop_content.php:242
+msgid "Ok, keep it active for the time being, "
+msgstr "Ok, drži aktivnim zasad,"
+
+#: views/sfsi_pop_content.php:235
+msgid "Note: Also if you already offer a newsletter it makes sense to offer this option too, because it will get you %1$s more readers %2$s, as explained %3$shere.%4$s"
+msgstr "Napomena: Ako već nudite Newsletter ima smisla da nudite i ovu opciju, jer ćete dobiti %1$s više čitatelja %2$s, kao što je objašnjeno %3$sovdje.%4$s"
+
+#: views/sfsi_pop_content.php:213
+msgid "Move over the LinkedIn-icon… "
+msgstr "Premjesti Linkedin ikonu"
+
+#: views/sfsi_pop_content.php:189
+msgid "Move over the Pinterest-icon…  "
+msgstr "Premjesti Pinterest ikonu"
+
+#: views/sfsi_pop_content.php:166
+msgid "Move over the YouTube-icon…  "
+msgstr "Premjesti Youtube ikonu.."
+
+#: views/sfsi_pop_content.php:143
+msgid "Move over the Twiiter-icon… "
+msgstr "Premjesti Twitter ikonu.."
+
+#: views/sfsi_pop_content.php:110
+msgid "Move over the Facebook-icon…"
+msgstr "Premjesti Facebook ikonu"
+
+#: views/sfsi_pop_content.php:59
+msgid "Insert into post "
+msgstr "Umetni u objavu"
+
+#: views/sfsi_pop_content.php:59
+msgid "3. Click on "
+msgstr "3. Klikni na"
+
+#: views/sfsi_pop_content.php:58
+msgid "2. Upload the icon into the media gallery!"
+msgstr "2. Prenesi ikonu u galeriju medija!"
+
+#: views/sfsi_pop_content.php:57
+msgid " below "
+msgstr "ispod"
+
+#: views/sfsi_pop_content.php:57
+msgid "Upload "
+msgstr "Prenesi"
+
+#: views/sfsi_pop_content.php:57
+msgid "1. Click on"
+msgstr "1. Klikni na"
+
+#: views/sfsi_pop_content.php:55
+msgid "Steps:"
+msgstr "Koraci:"
+
+#: views/sfsi_pop_content.php:43
+msgid "Note: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+msgstr "Napomena: Lorem Ipsum je jednostavno lažni tekst u industriji tiska i pisanja teksta. Lorem Ipsum je standardni lažni tekst u industriji još od 1500-ih, kada je nepoznati pisač uzeo kuliju s pismom i skremblirao je kako bi napravio knjigu uzoraka tipa. Preživjela je ne samo pet stoljeća, već i skok u elektroničko slaganje, ostavši u biti nepromijenjena. Populariziran je 1960-ih izdavanjem listova Letraseta koji sadrže odlomke Lorem Ipsuma, a nedavno i softverom za stolno izdavaštvo kao što je Aldus PageMaker uključujući verzije Lorem Ipsuma."
+
+#: views/sfsi_pop_content.php:32
+msgid "Privacy Policy"
+msgstr "Politika privatnosti"
+
+#: views/sfsi_pop_content.php:32
+msgid "We will treat your data (and your subscribers’ data!) highly confidentially, see our "
+msgstr "Prema vašim ćemo se podacima (i podacima vaših pretplatnika!) odnositi vrlo povjerljivo, pogledajte naše"
+
+#: views/sfsi_pop_content.php:32
+msgid "follow.it"
+msgstr "Prati"
+
+#: views/sfsi_pop_content.php:32
+msgid "This will create your FREE acccount on"
+msgstr "Ovim ćete kreirati BESPLATAN račun na"
+
+#: views/sfsi_pop_content.php:28
+msgid "Give me access!"
+msgstr "Daj mi pristup!"
+
+#: views/sfsi_pop_content.php:21
+msgid "Enter the email you want to use"
+msgstr "Unesite email koji želite koristiti"
+
+#: views/sfsi_option_view4.php:949
+msgid "Round icons"
+msgstr "Okrugle ikone"
+
+#: views/sfsi_option_view4.php:941
+msgid "For which icons do you want to show the counts?"
+msgstr "Za koje ikone želite prikazati brojenje?"
+
+#: views/sfsi_option_view4.php:774
+msgid " We cannot track this. So enter the figure here: "
+msgstr "Ne možemo ovo pratiti. Unesite ovdje brojku:"
+
+#: views/sfsi_option_view4.php:698
+msgid "Copy the access token, paste it into the plugin and click on “Save”."
+msgstr "Kopirajte pristupni token, zalijepite ga u dodatak i kliknite \"Spremi\"."
+
+#: views/sfsi_option_view4.php:697
+msgid "Now you will be redirected to the redirect url (which you entered during app creation) and find your access token at the end of this url(For example: http://your-website.com/#access_token=< your access token>)"
+msgstr "Sada ćete biti preusmjereni na URL za preusmjeravanje (koji ste unijeli tijekom izrade aplikacije) i svoj token za pristup pronaći ćete na kraju ovog URL-a (na primjer: http://your-website.com/#access_token=< your access token>  )"
+
+#: views/sfsi_option_view4.php:696
+msgid "Authorize your app to access your account info by clicking the “Authorize” button'."
+msgstr "Ovlastite svoju aplikaciju za pristup informacijama o vašem računu klikom na gumb „Ovlasti“."
+
+#: views/sfsi_option_view4.php:695
+msgid "Copy the “Client id” and “Redirect url” you entered into the plugin. Also enter your Instagram User name. After that click on the “Generate token” button."
+msgstr "Kopirajte \"Client id\" i \"Redirect url\" koji ste unijeli u dodatak. Unesite i svoje korisničko ime sa Instagrama. Nakon toga kliknite gumb \"Generiraj token\"."
+
+#: views/sfsi_option_view4.php:694
+msgid "Then click on “Register” button."
+msgstr "Zatim kliknite gumb \"Registriraj se\"."
+
+#: views/sfsi_option_view4.php:693
+msgid "Fill out the form and make sure that the “Redirect url” is valid and uncheck the “Disable Implicit oAuth” under the security tab."
+msgstr "Ispunite obrazac i provjerite je li \"URL za preusmjeravanje\" valjan i poništite potvrdni okvir \"Onemogući implicitni oAuth\" ispod kartice sigurnosti."
+
+#: views/sfsi_option_view4.php:692
+msgid "Login and then click on “Register Your Application” to get to the “Manage Clients” section. On there click on the “Register a new client” button "
+msgstr "Prijavite se, a zatim kliknite na „Registrirajte svoju prijavu“ da biste došli do odjeljka „Upravljanje klijentima“. Tamo kliknite gumb \"Registriraj novog klijenta\""
+
+#: views/sfsi_option_view4.php:691
+msgid "Go to "
+msgstr "Idite na"
+
+#: views/sfsi_option_view4.php:689
+msgid "To complete the process please follow these steps:"
+msgstr "Da biste dovršili postupak, slijedite ove korake:"
+
+#: views/sfsi_option_view4.php:684
+msgid "Enter Instagram Token:"
+msgstr "Unesite Instagram Token"
+
+#: views/sfsi_option_view4.php:677
+msgid "For generate your app token you need to enter your \"Client Id\" and \"Redirect Url\".%1sGenerate Token%2s"
+msgstr "Za generiranje tokena aplikacije trebate unijeti \"Id klijenta\" i \"URL za preusmjeravanje\". GeneriraToken"
+
+#: views/sfsi_option_view4.php:670
+msgid "Enter Instagram Redirect Url:"
+msgstr "Unesite URL za preusmjeravanje na Instagram:"
+
+#: views/sfsi_option_view4.php:666
+msgid "Enter Instagram Client Id:"
+msgstr "Unesite ID klijenta za Instagram:"
+
+#: views/sfsi_option_view4.php:662
+msgid "Enter Instagram User name:"
+msgstr "Unesite korisničko ime za Instagram:"
+
+#: views/sfsi_option_view4.php:657
+msgid "Retrieve the number of Instagram followers"
+msgstr "Dohvati broj sljedbenika na Instagramu"
+
+#: views/sfsi_option_view4.php:639
+msgid "Retrieve the number of Pins"
+msgstr "Dohvatite broj Pinova"
+
+#: views/sfsi_option_view4.php:577
+msgid "Enter Youtube Channel Id:"
+msgstr "Unesite ID YouTube kanala:"
+
+#: views/sfsi_option_view4.php:571
+msgid "Enter Youtube User name:"
+msgstr "Unesite korisničko ime za Youtube:"
+
+#: views/sfsi_option_view4.php:568
+msgid "Retrieve the number of Subscribers"
+msgstr "Dohvatite broj pretplatnika"
+
+#: views/sfsi_option_view4.php:506
+msgid "5: Then click on \"Test OAuth\" at the top right and you will see the 4 token key"
+msgstr "5: Zatim kliknite \"Test OAuth\" u gornjem desnom kutu i vidjet ćete 4 Token ključa."
+
+#: views/sfsi_option_view4.php:505
+msgid "4: Go to \"Keys and Access Tokens\" tab and click on \"Generate Token\" in the \"Token actions\" section at the bottom"
+msgstr "4: Idite na karticu \"Ključevi i pristupni tokeni\" i kliknite \"Generiraj Token\" u odjeljku \"Token radnje\" na dnu"
+
+#: views/sfsi_option_view4.php:504
+msgid "3: Enter a random Name , Descriptions and Website URL "
+msgstr "3: Unesite nasumično ime, opise i URL web stranice"
+
+#: views/sfsi_option_view4.php:503
+msgid "2: Click on \"Create new app\""
+msgstr "2: Kliknite \"Izradi novu aplikaciju\""
+
+#: views/sfsi_option_view4.php:502
+msgid "1: Go to"
+msgstr "1. Idi na"
+
+#: views/sfsi_option_view4.php:500
+msgid "To get this information:"
+msgstr "Da biste dobili ove podatke:"
+
+#: views/sfsi_option_view4.php:498
+msgid " in Twitter settings under question number 2."
+msgstr "u postavkama twittera pod pitanjem broj 2"
+
+#: views/sfsi_option_view4.php:498
+msgid "Follow me on Twitter:\""
+msgstr "Pratite me na Twitteru: \""
+
+#: views/sfsi_option_view4.php:498
+msgid "for"
+msgstr "za"
+
+#: views/sfsi_option_view4.php:498
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: views/sfsi_option_view4.php:498
+msgid " Please make sure you have entered the"
+msgstr "Molimo provjerite jeste li unijeli"
+
+#: views/sfsi_option_view4.php:493
+msgid "Enter Access Token Secret:"
+msgstr "Unesite tajnu pristupnog tokena:"
+
+#: views/sfsi_option_view4.php:489
+msgid "Enter Access Token:"
+msgstr "Unesite pristupni Token"
+
+#: views/sfsi_option_view4.php:485
+msgid "Enter Consumer Secret:"
+msgstr "Unesite potrošačku tajnu:"
+
+#: views/sfsi_option_view4.php:481
+msgid "Enter Consumer Key:"
+msgstr "Unesite potrošački ključ:"
+
+#: views/sfsi_option_view4.php:438
+msgid "%1$sNote:%2$s This plugin uses %3$sone%4$s API shared by all users of this plugin. There is a limit (set by Facebook) how often this API can get the counts per day, so it may happen that it returns “0 counts”later in the day.%5$sTherefore we implemented a solution as part of our Premium Plugin where you can %6$seasily%7$s set up your own API in a few steps, which will fix this problem.%8$s or learn more.%9$s"
+msgstr "Napomena: Ovaj dodatak koristi jedan API kojeg dijele svi korisnici ovog dodatka. Postoji ograničenje (koje je postavio Facebook) koliko često ovaj API može dobiti brojanje po danu, pa se može dogoditi da kasnije tijekom dana vrati \"0 counts\". Stoga smo implementirali rješenje kao dio našeg Premium dodatka gdje možete jednostavno postaviti vlastiti API u nekoliko koraka, što će riješiti ovaj problem ili saznajte više"
+
+#: views/sfsi_option_view4.php:427
+msgid "-tab on your facebook page)"
+msgstr "-umetak na vašoj facebook stranici)"
+
+#: views/sfsi_option_view4.php:426
+msgid "About"
+msgstr "oko"
+
+#: views/sfsi_option_view4.php:425
+msgid "(You'll find it at the bottom of the "
+msgstr "(Pronaći ćete ga na dnu"
+
+#: views/sfsi_option_view4.php:421
+msgid "of your Facebook page "
+msgstr "vase facebook stranice"
+
+#: views/sfsi_option_view4.php:413 views/sfsi_option_view4.php:421
+msgid "Retrieve the number of likes "
+msgstr "Dohvatite broj oznaka 'sviđa mi se'"
+
+#: views/sfsi_option_view4.php:413
+msgid "of your blog"
+msgstr "vašeg bloga"
+
+#: views/sfsi_option_view4.php:394 views/sfsi_option_view4.php:510
+#: views/sfsi_option_view4.php:552 views/sfsi_option_view4.php:583
+#: views/sfsi_option_view4.php:640 views/sfsi_option_view4.php:703
+msgid "Enter the figure manually:"
+msgstr "Unesite brojku ručno:"
+
+#: views/sfsi_option_view4.php:393
+msgid "Retrieve the number of subscribers automatically"
+msgstr "Automatski dohvatite broj pretplatnika"
+
+#: views/sfsi_option_view4.php:370 views/sfsi_option_view4.php:728
+#: views/sfsi_option_view4.php:751 views/sfsi_option_view4.php:797
+#: views/sfsi_option_view4.php:820 views/sfsi_option_view4.php:843
+#: views/sfsi_option_view4.php:866 views/sfsi_option_view4.php:889
+#: views/sfsi_option_view4.php:912 views/sfsi_option_view4.php:935
+msgid "We cannot track this. So enter the figure here:"
+msgstr "Ne možemo ovo pratiti. Unesite ovdje brojku:"
+
+#: views/sfsi_option_view4.php:351
+msgid "Please specify which counts should be shown:"
+msgstr "Molimo navedite koji se brojevi trebaju prikazati:"
+
+#: views/sfsi_global_banners.php:170 views/sfsi_global_banners.php:204
+#: views/sfsi_global_banners.php:239 views/sfsi_global_banners.php:274
+#: views/sfsi_global_banners.php:308 views/sfsi_global_banners.php:346
+#: views/sfsi_option_view4.php:346 views/sfsi_other_banners.php:59
+#: views/sfsi_other_banners.php:153 views/sfsi_other_banners.php:240
+#: views/sfsi_other_banners.php:283
+msgid "Dismiss"
+msgstr "Odbaci"
+
+#: views/sfsi_option_view4.php:334
+msgid ""
+"%1sImportant:%2sYour website used to be on http (before you enabled an SSL certificate to switch to https). We found share counts for your URLs on http which usually get lost\n"
+"                            after switch to https (because Facebook etc. provide the counts per url, and an url on https is a different url then one on http).%3s We found a solution for that%4s so that your share counts on http and https will\n"
+"                            be aggregated and your full number of share counts is restored. It is implemented in the Premium Plugin - %5sGet it now.%6s"
+msgstr "Važno: Vaša je web lokacija nekada bila na http (prije nego što ste omogućili SSL certifikat za prelazak na https). Pronašli smo brojke za vaše URL-ove na http, koji se obično izgube nakon prebacivanja na https (jer Facebook i sl. pružaju brojeve po URL-u, a URL na https-u je drugačiji URL od URL-a na http). Pronašli smo rješenje za to, tako da će vaš udio računa na http i https biti objedinjeni i obnovit će se vaš puni broj računa. Implementiran je u Premium dodatak - nabavite ga odmah."
+
+#: views/sfsi_option_view4.php:300
+msgid "Enough waffling. So do you want to display counts?"
+msgstr "Dosta je blebetanja. Želite li prikazati brojke?"
+
+#: views/sfsi_option_view4.php:294
+msgid "Of course, if you start at 0, you shoot yourself in the foot with that. So we suggest that you only turn this feature on once you have a good number of followers/likes/shares (min. of 20 – no worries if it’s not too many, it should just not be 0). %1sNew:%2s In the Premium Plugin you can define a threshold (min. number of counts) when it will automatically switch to showing the counts. %3sGo Premium%4s"
+msgstr "Naravno, ako započnete s 0, time sebi pucate u nogu. Stoga predlažemo da ovu značajku uključite samo kada imate dobar broj sljedbenika / sviđanja / dijeljenja (min. Od 20 - bez brige ako nije previše, jednostavno ne bi trebalo biti 0). Novo: U Premium dodatku možete definirati prag (min. broj brojanja) kada će se automatski prebaciti na prikazivanje brojanja. Prijeđite na Premium"
+
+#: views/sfsi_option_view4.php:170
+msgid "Therefore, you can select to display the count next to your main icons, which will look like this (example for round icons):"
+msgstr "Stoga možete odabrati prikazivanje broja pored glavnih ikona, što će izgledati ovako (primjer za okrugle ikone):"
+
+#: views/sfsi_option_view4.php:164
+msgid "It’s a psychological fact that people like to follow other people (as explained well in Robert Cialdini’s book “%1sInfluence%2s”), so when they see that your site has already a good number of Facebook likes, it’s more likely that they will subscribe/like/share your site than if it had 0."
+msgstr "Psihološka je činjenica da ljudi vole slijediti druge ljude (kao što je dobro objašnjeno u knjizi Roberta Cialdinija „Influence“), pa kad vide da vaša web lokacija već ima dobar broj Facebook lajkova, vjerojatnije je da će se pretplatiti / lajkati / podijeliti vašu stranicu nego ako ima 0."
+
+#: views/sfsi_option_view7.php:559
+msgid "Every time user scrolls to the end of the page"
+msgstr "Svaki put kada se korisnik pomakne na kraj stranice"
+
+#: views/sfsi_option_view7.php:556
+msgid "seconds after the user arrived on the site"
+msgstr "sekundi nakon što je korisnik došao na stranicu"
+
+#: views/sfsi_option_view7.php:556
+msgid "Once"
+msgstr "jednom"
+
+#: views/sfsi_option_view7.php:553
+msgid "When shall the pop-up be shown?"
+msgstr "Kada će se prikazati skočni prozor?"
+
+#: views/sfsi_option_view7.php:513
+msgid "Please hold the CTRL key to select multiple pages."
+msgstr "Molimo držite CTRL gumb da biste označili više stranica"
+
+#: views/sfsi_option_view7.php:474
+msgid "On some pages"
+msgstr "Na nekim stranicama"
+
+#: views/sfsi_option_view7.php:467
+msgid "On all pages"
+msgstr "Na svim stranicama"
+
+#: views/sfsi_option_view7.php:460
+msgid "Nowhere"
+msgstr "Nigdje"
+
+#: views/sfsi_option_view7.php:456
+msgid "Where shall the pop-up be shown?"
+msgstr "Gdje će se prikazati skočni prozor?"
+
+#: views/sfsi_option_view7.php:448
+msgid "In the Premium Plugin you can choose to display the text on the pop-up in a font already present in your theme"
+msgstr "U Premium dodatku možete odabrati da se tekst u skočnom prozoru prikaže u fontu koji je već na vašoj temi."
+
+#: views/sfsi_option_view7.php:439
+msgid "Off"
+msgstr "isključeno"
+
+#: views/sfsi_option_view7.php:437
+msgid "On"
+msgstr "uključeno"
+
+#: views/sfsi_option_view7.php:433
+msgid "Shadow:"
+msgstr "Sjena:"
+
+#: views/sfsi_option_view7.php:421
+msgid "Thickness:"
+msgstr "Debljina:"
+
+#: views/sfsi_option_view7.php:421 views/sfsi_option_view7.php:433
+msgid "Border"
+msgstr "Obrub"
+
+#: views/sfsi_option_view7.php:412
+msgid "Border Color:"
+msgstr "Boja obruba"
+
+#: views/sfsi_option_view7.php:403
+msgid "Color:"
+msgstr "Boja:"
+
+#: views/sfsi_option_view7.php:403
+msgid "Background"
+msgstr "Pozadina:"
+
+#: views/sfsi_option_view7.php:399
+msgid "Icon Box Layout"
+msgstr "Izgled okvira s ikonama"
+
+#: views/sfsi_option_view7.php:307
+msgid "Text Options"
+msgstr "Opcije teksta"
+
+#: views/sfsi_option_view7.php:303
+msgid " Design"
+msgstr "Dizajn"
+
+#: views/sfsi_option_view7.php:303
+msgid "Text "
+msgstr "Tekst"
+
+#: views/sfsi_option_view4.php:178 views/sfsi_option_view4.php:184
+#: views/sfsi_option_view4.php:190 views/sfsi_option_view4.php:196
+#: views/sfsi_option_view4.php:203 views/sfsi_option_view4.php:209
+#: views/sfsi_option_view4.php:215 views/sfsi_option_view4.php:221
+#: views/sfsi_option_view4.php:227 views/sfsi_option_view4.php:233
+#: views/sfsi_option_view4.php:239 views/sfsi_option_view4.php:245
+#: views/sfsi_option_view4.php:251 views/sfsi_option_view4.php:257
+#: views/sfsi_option_view4.php:263 views/sfsi_option_view7.php:90
+#: views/sfsi_option_view7.php:102 views/sfsi_option_view7.php:114
+#: views/sfsi_option_view7.php:126 views/sfsi_option_view7.php:138
+#: views/sfsi_option_view7.php:150 views/sfsi_option_view7.php:162
+#: views/sfsi_option_view7.php:174 views/sfsi_option_view7.php:186
+#: views/sfsi_option_view7.php:198 views/sfsi_option_view7.php:210
+#: views/sfsi_option_view7.php:222 views/sfsi_option_view7.php:234
+#: views/sfsi_option_view7.php:246 views/sfsi_option_view7.php:255
+#: views/sfsi_option_view7.php:262 views/sfsi_option_view7.php:269
+#: views/sfsi_option_view7.php:276
+msgid "12k"
+msgstr "12k"
+
+#: views/sfsi_option_view7.php:80
+msgid "Enjoy this site? Please follow and like us!"
+msgstr "Sviđa vam se stranica? Pratite nas i stisnite like!"
+
+#: views/sfsi_option_view7.php:72
+msgid "You can increase the chances that people share or follow you by displaying a pop-up asking them to. You can define the design and layout below:"
+msgstr "Možete povećati šanse da vas ljudi podijele ili prate tako da im se prikazuje skočni prozor s pitanjem žele li. možete odrediti dizajn i izgled ispod:"
+
+#: views/sfsi_option_view7.php:54
+msgid "Update: if you want many more features for your pop-ups, have a look at %1s MyPopUps. %2s"
+msgstr "Update: Ako želite više mogućnosti za svoje skočne prozore, pogledajte na MyPopUps."
+
+#: views/sfsi_affiliate_banner.php:7
+msgid "Share the premium plugin and earn 40% of the purchase price!"
+msgstr "Podijelite Premium dodatak i zaradite 40% od nabavne cijene."
+
+#: views/deactivation/sfsi_deactivation_popup.php:109
+msgid "Just de-activate it"
+msgstr "Samo ga deaktivirajte"
+
+#: views/deactivation/sfsi_deactivation_popup.php:97
+msgid "Cool - if it was a reason we colud learn from, please let us know in the Support Forum."
+msgstr "Cool - ako je to bio razlog iz kojeg nešto možemo naučiti, molim dajte nam do znanja na forumu korisničke podrške."
+
+#: views/deactivation/sfsi_deactivation_popup.php:83
+msgid "De-activate plugin now"
+msgstr "Deaktivirajte dodatak sada"
+
+#: views/deactivation/sfsi_deactivation_popup.php:80
+msgid "Thumbs up to that one!"
+msgstr "Palac gore za taj!"
+
+#: views/deactivation/sfsi_deactivation_popup.php:75
+msgid "premium version"
+msgstr "Premium verzija"
+
+#: views/deactivation/sfsi_deactivation_popup.php:75
+msgid "I got the "
+msgstr "Dobio sam"
+
+#: views/deactivation/sfsi_deactivation_popup.php:65
+msgid "If you‘re not a Wordpress user yet, please sign up – it‘s quick! Once logged in you‘ll see a section at the bottom where you can ask your question."
+msgstr "Ako još niste WordPress korisnik, molimo prijavite se - brzo je! Kad se ulogirate vidjet ćete dio na dnu gdje možete postaviti pitanje."
+
+#: views/deactivation/sfsi_deactivation_popup.php:62
+#: views/deactivation/sfsi_deactivation_popup.php:100
+msgid "Go to Support Forum >"
+msgstr "Idite na forum korisničke podrške >"
+
+#: views/deactivation/sfsi_deactivation_popup.php:59
+msgid "so that we can fix it. We‘ll respond quickly! "
+msgstr "pa možemo to popraviti. Odgovaramo brzo!"
+
+#: views/deactivation/sfsi_deactivation_popup.php:59
+msgid "let us know in the Support Forum what didn't work, "
+msgstr "Recite nam na forumu korisničke podrške što nije funkcioniralo."
+
+#: views/deactivation/sfsi_deactivation_popup.php:53
+msgid "doesn't work for me"
+msgstr "ne radi mi"
+
+#: views/deactivation/sfsi_deactivation_popup.php:53
+msgid "The plugin "
+msgstr "Dodatak"
+
+#: views/deactivation/sfsi_deactivation_popup.php:31
+msgid "No, don't worry, there was a different reason, I want to de-activate it"
+msgstr "Ne, bez brige, bio je neki drugi razlog. Želim ga deaktivirati"
+
+#: views/deactivation/sfsi_deactivation_popup.php:26
+msgid "If you're not a WordPress user yet, please sign up – it's quick! Once logged in you‘ll see a section at the bottom where you can ask your question."
+msgstr "Ako još niste WordPress korisnik, molimo prijavite se - brzo je! Kad se prijavite vidjet ćete dio na dnu gdje možete postaviti pitanje."
+
+#: views/deactivation/sfsi_deactivation_popup.php:23
+msgid "Go to Support Forum>"
+msgstr "Idtie na forum korisniče podrške >"
+
+#: views/deactivation/sfsi_deactivation_popup.php:20
+msgid "so that we can fix it. We‘ll respond quickly!"
+msgstr "pa možemo to popraviti. Odgovorit ćemo vam brzo!"
+
+#: views/deactivation/sfsi_deactivation_popup.php:20
+msgid "let us know in the Support Forum what was the issue,"
+msgstr "javite nam na forumu podrške u čemu je bio problem,"
+
+#: views/deactivation/sfsi_deactivation_popup.php:19
+#: views/deactivation/sfsi_deactivation_popup.php:58
+msgid "PLEASE"
+msgstr "MOLIM"
+
+#: views/deactivation/sfsi_deactivation_popup.php:11
+msgid "Oh! You don\\'t like our plugin?"
+msgstr "Oh! Ne sviđa vam se naš dodatak?"
+
+#: views/sfsi_options_view.php:282
+msgid "Check the Theme"
+msgstr "Provjerite temu"
+
+#: views/sfsi_options_view.php:258
+msgid "selections"
+msgstr "Odabiri"
+
+#: views/sfsi_options_view.php:255
+msgid "Export"
+msgstr "Izvezi"
+
+#: views/sfsi_options_view.php:249
+msgid "Save All Settings"
+msgstr "Spremi sve postavke"
+
+#: views/sfsi_options_view.php:232
+msgid "increases sign ups"
+msgstr "Povećava broj prijava"
+
+#: views/sfsi_options_view.php:232
+msgid "Do you want to show a subscription form ("
+msgstr "Želite li prikazati formu pretplate?"
+
+#: views/sfsi_options_view.php:227
+msgid "Do you want to display a pop-up, asking people to subscribe?"
+msgstr "Želite li prikazati skočni prozor, s pitanjem da li se žele pretplatiti?"
+
+#: views/sfsi_options_view.php:222
+msgid "Any other wishes for your main icons?"
+msgstr "Još želja za glavne ikone?"
+
+#: views/sfsi_options_view.php:217
+msgid "Do you want to display 'counts' next to your icons? "
+msgstr "Želite li prikazati brojke pokraj ikona?"
+
+#: views/sfsi_options_view.php:211
+msgid "animation do you want to give your icons?"
+msgstr "Želite li dodati animaciju ikonama?"
+
+#: views/sfsi_options_view.php:211
+msgid "What design  "
+msgstr "Koji dizajn"
+
+#: views/sfsi_options_view.php:197
+msgid "Where shall they be displayed? "
+msgstr "Gdje će biti prikazani?"
+
+#: views/sfsi_options_view.php:192
+msgid "What do you want the icons to do?"
+msgstr "Što želite da ikone rade?"
+
+#: views/sfsi_options_view.php:186
+msgid "Which icons do you want to show on your site? "
+msgstr "Koje ikone želite da budu prikazane na vašoj stranici?"
+
+#: views/sfsi_option_view9.php:43
+msgid "Trouble logging in there?"
+msgstr "Problem kod prijave?"
+
+#: views/sfsi_options_view.php:157
+msgid "Learn more"
+msgstr "Prikaži više"
+
+#: views/sfsi_options_view.php:128 views/sfsi_options_view.php:155
+msgid "Go Premium"
+msgstr "Prijeđi na Premium"
+
+#: views/sfsi_options_view.php:93
+msgid "Simply answer the questions below %1$s(at least the first 3)%2$s - that`s it!"
+msgstr "Samo odgovorite na pitanje ispod %1$s( barem na prva 3)%2$s - to je to!"
+
+#: views/sfsi_options_view.php:9
+msgid "We found errors in your javascript which may cause the plugin to not work properly. Please fix the error:"
+msgstr ""
+"Pronašli smo greške u vašoj javascript što bi moglo prouzročiti da plugin ne radi ispravno.\n"
+"Molimo popravite grešku:"
+
+#: views/sfsi_aboutus.php:1
+msgid " or write to us at "
+msgstr "ili nam pišite na"
+
+#: views/sfsi_aboutus.php:1
+msgid "Please visit us at "
+msgstr "Posjetite nas na"
+
+#: views/sfsi_section_for_premium.php:91
+msgid "More platforms"
+msgstr "Više platformi"
+
+#: views/sfsi_section_for_premium.php:83
+msgid "Friendly support"
+msgstr "Prijateljska podrška"
+
+#: views/sfsi_section_for_premium.php:75
+msgid "Faster loading"
+msgstr "Brže učitavanje"
+
+#: views/sfsi_section_for_premium.php:67
+msgid "Mobile optimization"
+msgstr "Optimizacija za mobilne uređaje"
+
+#: views/sfsi_section_for_premium.php:55
+msgid "Better icon placement"
+msgstr "Bolje pozicioniranje ikona"
+
+#: views/sfsi_section_for_premium.php:47
+msgid "Themed icons"
+msgstr "Tematske ikone"
+
+#: views/sfsi_section_for_premium.php:39
+msgid "More icon designs"
+msgstr "Više dizajna ikona"
+
+#: views/sfsi_section_for_premium.php:31
+msgid "More Likes & Shares"
+msgstr "Više lajkova i dijeljenja"
+
+#: views/sfsi_question3.php:74
+msgid "On your Woocommerce product pages "
+msgstr "Na vašim Woocommerce stranicama proizvoda"
+
+#: libs/sfsi_install_uninstall.php:2184
+#: views/subviews/que3/sfsi_que3_place_via_float.php:127
+#: views/subviews/que3/sfsi_que3_place_via_float.php:139
+msgid "Premium feature"
+msgstr "Premium mogućnost"
+
+#: views/sfsi_question3.php:58
+msgid "Show a Pinterest icon over images on mouse-over"
+msgstr "Prikaži Pinterest ikonu preko slika kod prelaska miša"
+
+#: views/sfsi_question3.php:17
+msgid "Please select one or multiple placement options:"
+msgstr "Molimo odaberite jednu ili više opcija rasporeda:"
+
+#: views/sfsi_option_view3.php:709
+msgid "Need icons for another theme? Let us know in the %1$sSupport Forum%2$s."
+msgstr "Trebate ikone za drugu temu? Obavijestite nas na forumu podrške."
+
+#: views/sfsi_option_view3.php:686
+msgid "%1$sLet us create icons matching your site perfectly (both in terms of colors and shape). %2$sLearn more.%3$s"
+msgstr "Dajte nam da kreiramo ikone koje savršeno odgovaraju vašoj stranici ( i bojama i oblikom, Prikaži više)"
+
+#: views/sfsi_option_view3.php:678
+msgid " Tailored -"
+msgstr "Skrojeno"
+
+#: views/sfsi_option_view3.php:663
+msgid "Upload any icons you want."
+msgstr "Prenesite koju god ikonu želite"
+
+#: views/sfsi_option_view3.php:655
+msgid "Custom Icons -"
+msgstr "Prilagođene ikone"
+
+#: views/sfsi_option_view3.php:495
+msgid "Custom Icons "
+msgstr "Prilagođene ikone"
+
+#: views/sfsi_option_view3.php:482
+msgid "(for dark backgrounds)"
+msgstr "(za tamne pozadine)"
+
+#: views/sfsi_option_view3.php:482
+msgid "Transparent"
+msgstr "Transparentno"
+
+#: views/sfsi_option_view3.php:470
+msgid "Shaded Light"
+msgstr "Zasjenjeno svijetlo"
+
+#: views/sfsi_option_view3.php:464
+msgid "Shaded Dark"
+msgstr "Zasjenjeno tamno"
+
+#: views/sfsi_option_view3.php:458
+msgid "Silver"
+msgstr "Srebrno"
+
+#: views/sfsi_option_view3.php:450
+msgid "Black"
+msgstr "Crno"
+
+#: views/sfsi_option_view3.php:444
+msgid "Glossy"
+msgstr "Sjajno"
+
+#: views/sfsi_option_view3.php:438
+msgid "Crystal"
+msgstr "Crystal"
+
+#: views/sfsi_option_view3.php:432
+msgid "Orange"
+msgstr "Narančasto"
+
+#: views/sfsi_option_view3.php:424
+msgid "Splash"
+msgstr "Mrlja"
+
+#: views/sfsi_option_view3.php:418
+msgid "Chrome Grey"
+msgstr "Krom siva"
+
+#: views/sfsi_option_view3.php:412
+msgid "Chrome Blue"
+msgstr "Krom plava"
+
+#: views/sfsi_option_view3.php:406
+msgid "Cubes"
+msgstr "Kocke"
+
+#: views/sfsi_option_view3.php:398
+msgid "Cute"
+msgstr "Slatko"
+
+#: views/sfsi_option_view3.php:392
+msgid "Thin"
+msgstr "Tanko"
+
+#: views/sfsi_option_view3.php:69
+msgid "(Premium)"
+msgstr "(Premium)"
+
+#: views/sfsi_option_view3.php:53 views/sfsi_option_view3.php:63
+msgid "Default"
+msgstr "Zadano"
+
+#: views/sfsi_option_view3.php:48
+msgid "Theme options"
+msgstr "Opcije tema"
+
+#: views/sfsi_option_view3.php:38
+msgid "The icons have been compressed by %1sShortpixel.com%2s for faster loading of your site. Thank you Shortpixel!"
+msgstr "Ikone su komprimirane s Shortpixel.com za brže učitavanje vaše stranice. Hvala ti Shortpixel!"
+
+#: views/sfsi_option_view3.php:32
+msgid "in an unintrusive manner"
+msgstr "Na neupadlljiv način"
+
+#: views/sfsi_option_view3.php:32
+msgid "make your visitors aware of your icons"
+msgstr "neka vaši posjetitelji vide ikone"
+
+#: views/sfsi_option_view3.php:32
+msgid "A smart automatic animation can"
+msgstr "Pametna automatska animacija može"
+
+#: views/sfsi_option_view3.php:31
+msgid "more “credit”"
+msgstr "više 'credit'"
+
+#: views/sfsi_option_view3.php:31
+msgid "and gives your site"
+msgstr "i daje vašoj stranici"
+
+#: views/sfsi_option_view3.php:31
+msgid "more professional"
+msgstr "profesionalniji"
+
+#: views/sfsi_option_view3.php:31
+msgid "It comes across as"
+msgstr "Dolazi kao"
+
+#: views/sfsi_option_view3.php:28
+msgid "A good & well-fitting design is not only nice to look at, but it increases chances that people will subscribe and/or share your site with friends:"
+msgstr "Dobar dizajn koji dobro pristaje nije samo lijep za pogledati, već povećava šanse da će se ljudi pretplatiti i/ili podijeliti vašu web-lokaciju s prijateljima:"
+
+#: views/sfsi_option_view6.php:657
+msgid "Left aligned"
+msgstr "Lijevo poravnato"
+
+#: views/sfsi_option_view6.php:652
+msgid "Text on icons:"
+msgstr "Tekst na ikonama:"
+
+#: views/sfsi_option_view6.php:642 views/sfsi_option_view6.php:647
+msgid "px"
+msgstr "px"
+
+#: views/sfsi_option_view6.php:637
+msgid "Margins:"
+msgstr "Margine:"
+
+#: views/sfsi_option_view6.php:628
+msgid "Margin between icons:"
+msgstr "Margine između ikona:"
+
+#: views/sfsi_option_view6.php:620
+msgid "Gradient"
+msgstr "Prijelaz"
+
+#: views/sfsi_option_view3.php:86 views/sfsi_option_view6.php:617
+msgid "Flat"
+msgstr "Ravan"
+
+#: views/sfsi_option_view6.php:611
+msgid "Style:"
+msgstr "Stil:"
+
+#: views/sfsi_option_view6.php:594
+msgid "with border radius"
+msgstr "s radijusom granice"
+
+#: views/sfsi_option_view6.php:589
+msgid "Sharp"
+msgstr "Oštro"
+
+#: views/sfsi_option_view6.php:586
+msgid "Round"
+msgstr "Okruglo"
+
+#: views/sfsi_option_view6.php:580
+msgid "Edges:"
+msgstr "Rubovi:"
+
+#: views/sfsi_option_view6.php:566
+msgid "Fully responsive"
+msgstr "Potpuno prilagodljivo"
+
+#: views/sfsi_option_view6.php:563
+msgid "Fixed icon width"
+msgstr "Fiksna širina ikone"
+
+#: views/sfsi_option_view6.php:557
+msgid "Icons width:"
+msgstr "Širina ikona:"
+
+#: views/sfsi_option_view6.php:548
+msgid "Large"
+msgstr "Veliko"
+
+#: views/sfsi_option_view6.php:545
+msgid "Medium"
+msgstr "Srednje"
+
+#: views/sfsi_option_view6.php:542
+msgid "Small"
+msgstr "Malo"
+
+#: views/sfsi_option_view6.php:537
+msgid "Icons size:"
+msgstr "Veličina ikone:"
+
+#: views/sfsi_option_view6.php:535
+msgid "Design options"
+msgstr "Opcije dizajna"
+
+#: views/sfsi_option_view6.php:361
+msgid "Alignment of share icons:"
+msgstr "Poravnanje podijeljenih ikona"
+
+#: views/sfsi_option_view6.php:343
+msgid ""
+"%1sNew: %2s In the Premium Plugin you can choose to display the text before\n"
+"                        the sharing icons in a font of your choice. You can also define the %3s font\n"
+"                        size, type , and the margins below/above the icons.%4s %5s  Check\n"
+"                        it out.%6s"
+msgstr "Novo: U Premium dodatku možete odabrati da se tekst prikaže prije podijeljenih ikona u fontu po vašem izboru. Također, možete definirati font, veličinu, tip, i margine ispod/iznad ikona . Provjerite."
+
+#: views/sfsi_option_view6.php:327
+msgid "Text to appear before the sharing icons: "
+msgstr "Tekst koji će se pojaviti ispred dijeljenih ikona:"
+
+#: views/sfsi_option_view6.php:323
+msgid "Options:"
+msgstr "Opcije:"
+
+#: libs/sfsi_install_uninstall.php:2184 views/sfsi_option_view2.php:316
+#: views/subviews/que3/sfsi_que3_place_via_float.php:127
+#: views/subviews/que3/sfsi_que3_place_via_float.php:139
+msgid "learn more"
+msgstr "prikaži više"
+
+#: views/sfsi_option_view6.php:306
+msgid "3. The Tweet-button allows quick tweeting of your article"
+msgstr "3. Tweet gumb omogućava brzo tweetanje vašeg članka"
+
+#: views/sfsi_option_view6.php:305
+msgid "2. Facebook is No.1 in «liking», so it’s a must have"
+msgstr "2. Facebook je broj 1 u 'lajkanju', pa je 'must have'"
+
+#: views/sfsi_option_view6.php:304
+msgid "1. The follow-icon ensures that your visitors subscribe to your newsletter"
+msgstr "1. Ikona-prati osigurava da se vaši posjetitelji pretplate na vaš 'newsletter'."
+
+#: views/sfsi_option_view6.php:301
+msgid "Those are usually all you need: "
+msgstr "Ovo je obično sve što trebate:"
+
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:116
+msgid "*All icons have «sharing» feature enabled by default. If you want to give them a different function (e.g. link to your Facebook page) then please click on «Define URL» next to the icon."
+msgstr "*Sve ikone imaju značajku «dijeljenje» omogućenu prema zadanim postavkama. Ako im želite dati drugu funkciju (npr. poveznicu na vašu Facebook stranicu), kliknite na «Definiraj URL» pored ikone."
+
+#: views/sfsi_option_view6.php:170 views/sfsi_option_view6.php:191
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:80
+msgid "Cancel"
+msgstr "Otkaži"
+
+#: views/sfsi_option_view6.php:168 views/sfsi_option_view6.php:189
+msgid "Define URL*"
+msgstr "Definiraj URL*"
+
+#: views/sfsi_option_view6.php:149
+msgid "Select Icons"
+msgstr "Odaberi ikone"
+
+#: views/sfsi_option_view6.php:139
+msgid "These are responsive & independent from the icons you selected elsewhere in the plugin."
+msgstr "Ovi su prilagodljivi i neovisni od ikona koje ste odabrali negdje drugo u dodatku."
+
+#: views/sfsi_option_view6.php:128
+msgid "Display the icons I selected above"
+msgstr "Prikaži ikone koje sam odabrao iznad"
+
+#: views/sfsi_option_view4.php:959 views/sfsi_option_view6.php:120
+msgid "Original icons"
+msgstr "Originalne ikone"
+
+#: views/sfsi_option_view4.php:969 views/sfsi_option_view6.php:114
+msgid "Responsive icons"
+msgstr "Prilagodljive ikone"
+
+#: views/sfsi_option_view2.php:515 views/sfsi_option_view2.php:670
+#: views/sfsi_option_view6.php:102
+msgid "Here you have two options:"
+msgstr "Ovdje imate dvije opcije:"
+
+#: views/sfsi_chat_on_admin_pannel.php:61
+msgid "Close window"
+msgstr "Zatvori prozor"
+
+#: views/sfsi_chat_on_admin_pannel.php:60
+msgid "We‘ll get back to you ASAP."
+msgstr "Javit ćemo se čim prije."
+
+#: libs/controllers/sfsi_forum_notification_popup.php:94
+#: views/sfsi_chat_on_admin_pannel.php:59 views/sfsi_option_view9.php:51
+msgid "Thank you!"
+msgstr "Hvala!"
+
+#: views/sfsi_chat_on_admin_pannel.php:47
+msgid "Your email:"
+msgstr "Vaš email:"
+
+#: views/sfsi_chat_on_admin_pannel.php:40
+msgid "Your question:"
+msgstr "Vaše pitanje:"
+
+#: views/sfsi_chat_on_admin_pannel.php:29
+msgid "quickly!"
+msgstr "brzo!"
+
+#: views/sfsi_chat_on_admin_pannel.php:29
+msgid "We‘ll respond "
+msgstr "Odgovorit ćemo"
+
+#: views/sfsi_chat_on_admin_pannel.php:26
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:34
+msgid "Click here"
+msgstr "Klikni ovdje"
+
+#: views/sfsi_chat_on_admin_pannel.php:24
+msgid "Support Forum"
+msgstr "Forum za podršku"
+
+#: views/sfsi_chat_on_admin_pannel.php:19
+msgid "Please ask your question in the..."
+msgstr "Molim postavite pitanje u..."
+
+#: views/sfsi_chat_on_admin_pannel.php:14
+msgid "(for the Premium plugin)"
+msgstr "( za Premium dodatak )"
+
+#: views/sfsi_chat_on_admin_pannel.php:14
+msgid "Pre-sales question"
+msgstr "Pitanje prije prodaje"
+
+#: views/sfsi_chat_on_admin_pannel.php:13
+msgid "(for the free plugin)"
+msgstr "(za besplatni plugin)"
+
+#: views/sfsi_chat_on_admin_pannel.php:13
+msgid "Technical question"
+msgstr "Tehnička pitanja"
+
+#: views/sfsi_chat_on_admin_pannel.php:9
+msgid "we'll still respond quickly"
+msgstr "Svejedno ćemo odgovoriti brzo"
+
+#: views/sfsi_chat_on_admin_pannel.php:9
+msgid "No chat agent are available, However "
+msgstr "Nijedan agent nije dostupan, no"
+
+#: views/sfsi_option_view5.php:1424
+msgid "Show more useful tips for more sharing & traffic?"
+msgstr "Prikaži više korisnih savjeta za više dijeljenja i prometa?"
+
+#: views/sfsi_option_view5.php:1423
+msgid "Tips"
+msgstr "Savjeti"
+
+#: views/sfsi_option_view5.php:1408
+msgid "Suppress error messages?"
+msgstr "Zabraniti poruke grešaka?"
+
+#: views/sfsi_option_view5.php:1407
+msgid "Error reporting"
+msgstr "Prijava greške"
+
+#: views/sfsi_option_view5.php:1379
+msgid "Weibo:"
+msgstr "Weibo:"
+
+#: views/sfsi_option_view5.php:1373
+msgid "Ok:"
+msgstr "Ok:"
+
+#: views/sfsi_option_view5.php:1369
+msgid "VK:"
+msgstr "VK:"
+
+#: views/sfsi_option_view5.php:1363
+msgid "Telegram:"
+msgstr "Telegram:"
+
+#: views/sfsi_option_view5.php:1359
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: views/sfsi_option_view5.php:1353
+msgid "Youtube:"
+msgstr "YouTube"
+
+#: views/sfsi_option_view5.php:1349
+msgid "Pinterest:"
+msgstr "Pinterest"
+
+#: views/sfsi_option_view5.php:1342
+msgid "WhatsApp:"
+msgstr "WhatsApp:"
+
+#: views/sfsi_option_view5.php:1336
+msgid "WeChat:"
+msgstr "WeChat"
+
+#: views/sfsi_option_view5.php:1332
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: views/sfsi_option_view5.php:1326
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: views/sfsi_option_view5.php:1322
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: views/sfsi_option_view5.php:1317
+msgid "Email:"
+msgstr "E-pošta:"
+
+#: views/sfsi_option_view5.php:1314
+msgid "RSS:"
+msgstr "RSS:"
+
+#: views/sfsi_option_view5.php:1309
+msgid "If you’ve given your icon only one function (i.e. no pop-up where user can perform different actions) then you can define here what text will be displayed if a user moves his mouse over the icon:"
+msgstr "Ako ste dodali svojoj ikoni smo jednu funkciju ( bez pop-up-a gdje korisnik može izvesti različite radnje), onda ovdje možete definirati koji će tekst biti prikazan ako korisnik prijeđe mišem preko ikone:"
+
+#: views/sfsi_option_view5.php:1307
+msgid "Mouseover text"
+msgstr "Tekst prilikom prelaska mišem"
+
+#: views/sfsi_option_view5.php:1296
+msgid "Hide section for all"
+msgstr "Sakrij odjeljak za sve"
+
+#: views/sfsi_option_view5.php:1284
+msgid "Post"
+msgstr "Objava"
+
+#: views/sfsi_option_view5.php:1271
+msgid "Page"
+msgstr "Stranica"
+
+#: views/sfsi_option_view5.php:1255
+msgid "On the pages where you edit your posts/pages, you’ll see a (new) section where you can define which pictures & text should be shared. This extra section is displayed on the following:"
+msgstr "Na stranicama gdje uređujete svoje objave/stranice, vidjet ćete (novi) odjeljak gdje možete definirati koje bi slike i tekstovi trebali biti podijeljeni. Ovaj dodatni odjeljak je prikazan na sljedećem:"
+
+#: views/sfsi_option_view5.php:1254
+msgid "Sharing texts & pictures?"
+msgstr "Dijeljenje teksta i slika?"
+
+#: views/sfsi_option_view5.php:1240
+msgid "This is not to be confused with making the icons permanently placed in the same position, which is possible in the %1$s Premium Plugin.%2$s"
+msgstr "Ovo se ne smije zamijeniti sa izradom ikona trajno postavljenih na istu poziciju, što je moguće u Premium dodatku."
+
+#: views/sfsi_option_view5.php:1230
+msgid "If you select «Yes» here, then the icons which you placed via %1$swidget%2$s or %3$sshortcode%4$s will still be visible on the screen as user scrolls down your page, i.e. they will stick at the top."
+msgstr "Ako ovdje odaberete «Da», tada će ikone koje ste postavili sa widget ili shortcode i dalje biti vidljive na ekranu dok se korisnik pomiče po vašoj stranici, tj. ostat će na vrhu."
+
+#: views/sfsi_option_view5.php:1211
+msgid "Make icons stick?"
+msgstr "Zalijepiti ikone na vrh?"
+
+#: views/sfsi_option_view5.php:1204
+msgid "Sticky icons"
+msgstr "Ljepljive ikone"
+
+#: views/sfsi_option_view5.php:1185
+msgid "If a user clicks on your icons, do you want to open the page in a new window?"
+msgstr "Ako korisnik klikne na vašu ikonu, želite li da se stranica otvori u novom prozoru?"
+
+#: views/sfsi_option_view5.php:1184
+msgid "New window"
+msgstr "Novi prozor"
+
+#: views/sfsi_option_view5.php:294
+msgid "(with respect to icons in the first row; only relevant if your icons show in two or more rows)"
+msgstr "(s obzirom na ikone u prvom redu, relevantno samo ako se vaše ikone prikazuju u dva ili više redaka)"
+
+#: views/sfsi_option_view5.php:292
+msgid "Alignment of icons In the second row:"
+msgstr "Poravnanje ikona u drugom redu:"
+
+#: views/sfsi_option_view5.php:280
+msgid "Alignment of icons if placed via shortcode:"
+msgstr "Poravnanje ikona postavljenih putem shortcode:"
+
+#: views/sfsi_option_view5.php:274 views/sfsi_option_view5.php:286
+#: views/sfsi_option_view5.php:301 views/sfsi_option_view6.php:364
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:154
+msgid "Left"
+msgstr "Lijevo"
+
+#: views/sfsi_option_view5.php:273 views/sfsi_option_view5.php:285
+#: views/sfsi_option_view5.php:300 views/sfsi_option_view6.php:368
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:157
+msgid "Right"
+msgstr "Desno"
+
+#: views/sfsi_option_view5.php:267
+msgid "Alignment of icons within a widget:"
+msgstr "Poravnanje ikona unutar widgeta:"
+
+#: views/sfsi_option_view5.php:263
+msgid "define this"
+msgstr "definiraj ovo"
+
+#: views/sfsi_option_view5.php:263
+msgid "Leave empty if you don't want to"
+msgstr "Ostavite prazno ako ne želite"
+
+#: views/sfsi_option_view5.php:261
+msgid "Icons per row:"
+msgstr "Ikona po retku:"
+
+#: views/sfsi_option_view5.php:259
+msgid "Alignments"
+msgstr "Poravnanja"
+
+#: views/sfsi_option_view5.php:242
+msgid "Spacing between icons:"
+msgstr "Razmak između ikona:"
+
+#: views/sfsi_option_view5.php:242
+msgid " tall"
+msgstr "visoko"
+
+#: views/sfsi_option_view5.php:242
+msgid "pixels wide "
+msgstr "širina piksela"
+
+#: views/sfsi_option_view5.php:242
+msgid "Size:"
+msgstr "Veličina:"
+
+#: views/sfsi_option_view5.php:241
+msgid "Size &amp; spacing of your icons"
+msgstr "Veličina razmicanje vaših ikona"
+
+#: views/sfsi_option_view5.php:147
+msgid "Order of your icons"
+msgstr "Poredak ikona"
+
+#: views/subviews/que4/banner.php:45
+msgid "View more"
+msgstr "Vidi više"
+
+#: views/subviews/que4/animatethem.php:117
+msgid "seconds"
+msgstr "sekundi"
+
+#: views/subviews/que4/animatethem.php:115
+msgid "Every"
+msgstr "Svakih"
+
+#: views/subviews/que4/animatethem.php:111
+msgid "When the site is first loaded"
+msgstr "Kad se stranica prvi put učita"
+
+#: views/subviews/que4/animatethem.php:106
+msgid "Shuffle them automatically"
+msgstr "Promiješaj ih automatski"
+
+#: views/subviews/que4/animatethem.php:96
+msgid "Above options are available in the"
+msgstr "Opcije iznad su dostupne u"
+
+#: views/subviews/que4/animatethem.php:92
+msgid "Flip"
+msgstr "Okreni"
+
+#: views/subviews/que4/animatethem.php:91
+msgid "No effect"
+msgstr "Bez efekta"
+
+#: views/subviews/que4/animatethem.php:88
+msgid "Transition effect to those icons"
+msgstr "Prijelazni efekt ovim ikonama"
+
+#: views/subviews/que4/animatethem.php:59
+msgid "Show other icons on mouse-over (Only applied for Desktop Icons)"
+msgstr "Prikaži druge ikone prilikom prelaska mišem (samo za Desktop ikone)"
+
+#: views/subviews/que4/animatethem.php:52
+msgid "Greyed-out options are available in the"
+msgstr "zasivljene opcije su dostupne u"
+
+#: views/subviews/que4/animatethem.php:47
+msgid "(Icons turn from full color to shadow)"
+msgstr "(ikone prijeđu iz pune boje u sijenu)"
+
+#: views/subviews/que4/animatethem.php:46
+msgid "Fade Out"
+msgstr "Postepeno iščezavanje"
+
+#: views/subviews/que4/animatethem.php:39
+msgid "(Both fade in and scale effects)"
+msgstr "(obje iščezavaju i smanjuju efekte)"
+
+#: views/subviews/que4/animatethem.php:29
+msgid "(Icons become bigger)"
+msgstr "(Ikone se povećaju)"
+
+#: views/subviews/que4/animatethem.php:28
+msgid "Scale"
+msgstr "Dimenzioniranje"
+
+#: views/subviews/que4/animatethem.php:21
+msgid "(Icons turn from shadow to full color)"
+msgstr "(Ikone prelaze iz sjene u punu boju)"
+
+#: views/subviews/que4/animatethem.php:20
+msgid "Fade In"
+msgstr "Iščezavanje"
+
+#: views/subviews/que4/animatethem.php:12
+msgid "Same-icon effects"
+msgstr "Ista ikona efekt"
+
+#: views/subviews/que4/animatethem.php:8
+msgid "Mouse-Over effects"
+msgstr "Prelazak mišem efekt"
+
+#: views/subviews/que4/animatethem.php:4
+msgid "Animate them"
+msgstr "animacija"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:203
+msgid "Want to disable the floating icons on mobile?"
+msgstr "Želite li onemogućiti plutajuće ikone na mobitelu?"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:103
+msgid "Right:"
+msgstr "Desno:"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:98
+msgid "Left:"
+msgstr "Lijevo:"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:93
+msgid "Bottom:"
+msgstr "Dno:"
+
+#: views/sfsi_option_view5.php:242
+#: views/subviews/que3/sfsi_que3_place_via_float.php:90
+#: views/subviews/que3/sfsi_que3_place_via_float.php:95
+#: views/subviews/que3/sfsi_que3_place_via_float.php:100
+#: views/subviews/que3/sfsi_que3_place_via_float.php:105
+msgid "Pixels"
+msgstr "Pikseli"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:88
+msgid "Top:"
+msgstr "Vrh:"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:84
+msgid "Margin From:"
+msgstr "Margina od:"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:77
+msgid "Bottom right"
+msgstr "Dolje desno"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:72
+msgid "Center bottom"
+msgstr "Dolje sredina"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:67
+msgid "Bottom left"
+msgstr "Dolje lijevo"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:60
+msgid "Center right"
+msgstr "Centar desno"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:54
+msgid "Center left"
+msgstr "Centar lijevo"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:47
+msgid "Top right"
+msgstr "Gore desno"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:42
+msgid "Center top"
+msgstr "Gore centar"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:37
+msgid "Top left"
+msgstr "Gore lijevo"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:31
+msgid "Define the location:"
+msgstr "Definirajte lokaciju:"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:28
+msgid "Floating over your website's pages"
+msgstr "Lebdi preko stranica vašeg web mjesta"
+
+#: views/sfsi_option_view8.php:103
+msgid "Go to the "
+msgstr "Idi na"
+
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:27
+msgid "Show them via a widget"
+msgstr "Prikaži putem widgeta"
+
+#: views/subviews/que3/sfsi_que3_place_via_after_posts.php:17
+msgid "Show icons after posts"
+msgstr "Prikaži ikone nakon objava"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:136
+msgid ""
+" where - as part of our service - we can place the icons for you, making theme adjustments\n"
+"\t\t\t\t\twhere needed. This ensures the perfect appearance (on all devices) for your icons."
+msgstr "gdje - kao dio naše usluge - možemo postaviti ikone za vas, prilagođavajući teme gdje je potrebno. Tim osiguravamo savršen izgled 8 na svim uređajima) za vaše ikone."
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:135
+msgid "Premium plugin"
+msgstr "Premium dodatak"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:135
+msgid "You can try via shortcode (see above), however if you don't want any hassle, check out our"
+msgstr "Možete probati putem shortcode, međutim ako ne želite ikakve neprilike, pogledajte naš"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:132
+msgid "Placing icons in your theme's header can be tricky / technical as CSS & PHP know-how is required (as every theme is different, no \"automatic\" placement is possible)."
+msgstr "Postavljanje ikona u zaglavlje vaše teme može biti nezgodno / tehničko jer je potrebno znanje o CSS-u i PHP-u (s obzirom da je svaka tema drugačija, nije moguće \"automatsko\" postavljanje)."
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:128
+msgid "In your theme's header"
+msgstr "U zaglavlju teme"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:163
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:45
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:51
+msgid "Vertically"
+msgstr "Vertikalno"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:30
+msgid "Or, place the icons directly into our (theme) codes by using"
+msgstr "Ili,  postavite ikone direktno u naše (tematske) kodove, koristeći"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:28
+msgid " to place the icons anywhere you want."
+msgstr "da biste postavili ikone gdje god želite"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:28
+msgid "Please use the shortcode"
+msgstr "Molimo koristite shortcode"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:24
+msgid "Place via shortcode"
+msgstr "Postavite putem shortcode-a"
+
+#: views/sfsi_option_view2.php:778
+msgid "%1$sNew:%2$s In the Premium Plugin you can also give custom icons the feature that when people click on it, they can call you, or send you an SMS. %3$sGo premium now%4$s or learn more.%5$s"
+msgstr "Novo: U premium dodatku također možete dati prilagođenim ikonama značajku da vas korisnici, kad kliknu na njega, mogu nazvati ili poslati SMS. Prijeđite odmah na premium ili saznajte više."
+
+#: views/sfsi_option_view2.php:765
+msgid "Link :"
+msgstr "Link:"
+
+#: views/sfsi_option_view2.php:763
+msgid "Where do you want this icon to link to?"
+msgstr "Gdje želite prikazati ovu ikonu?"
+
+#: views/sfsi_option_view2.php:615
+msgid "Visit me on OK:"
+msgstr "Posjeti me na OK:"
+
+#: views/sfsi_option_view2.php:610
+msgid "When clicked on, users will get directed to your OK page."
+msgstr "Klikom na to, korisnići će biti usmjereni na vašu OK stranicu."
+
+#: views/sfsi_option_view2.php:608
+msgid "OK"
+msgstr "OK"
+
+#: views/sfsi_option_view2.php:591
+msgid "When clicked on, users will get directed to your VK page."
+msgstr "Klikom, korisnici će biti preusmjereni na vašu VK stranicu."
+
+#: views/sfsi_option_view2.php:733
+msgid "When clicked on, users will get directed to your TikTok page."
+msgstr "Kad se klikne, korisnici će biti preusmjereni na vašu TikTok stranicu."
+
+#: views/sfsi_option_view2.php:461
+msgid "My Telegram username"
+msgstr "Moje Telegram korisničko ime"
+
+#: views/sfsi_option_view2.php:455
+msgid "Pre-filled message"
+msgstr "Unaprijed ispunjena poruka"
+
+#: views/sfsi_option_view2.php:438
+msgid "You need to be logged in to Linkedin to be able to use it."
+msgstr "Morate biti prijavljeni na Linkedin da biste mogli koristiti."
+
+#: views/sfsi_option_view2.php:438
+msgid "To find your Product or Company ID, you can use their ID lookup tool at"
+msgstr "Da biste pronašli vaš proizvod ili firmu, možete koristiti alat za pretraživanje identifikacija"
+
+#: views/sfsi_option_view2.php:435
+msgid "Recommend my business or product on Linkedin:"
+msgstr "Preporuči moj posao ili proizvod na Linkedin-u:"
+
+#: views/sfsi_option_view2.php:433
+msgid "Share my page on LinkedIn"
+msgstr "Podijeli moju stranicu na Linkedin-u"
+
+#: views/sfsi_option_view2.php:431
+msgid "Follow me on Linkedin:"
+msgstr "Prati me na Linkedin-u"
+
+#: views/sfsi_option_view2.php:430
+msgid "Visit my Linkedin page at:"
+msgstr "Posjeti moju Linkedin stranicu na:"
+
+#: views/sfsi_option_view2.php:429
+msgid "The LinkedIn icon should allow users to... "
+msgstr "Linkedin ikona bi trebala dozvoliti korisnicima da..."
+
+#: views/sfsi_option_view2.php:423
+msgid " You find your ID in the link of your profile page, e.g. https://www.linkedin.com/profile/view?id=%1s8539887%2s&trk=nav_responsive_tab_profile_pic"
+msgstr "Pronaći ćete vaš ID u linku profilne stranice, npr. https://www.linkedin.com/profile/view?id=%1s8539887%2s&trk=nav_responsive_tab_profile_pic"
+
+#: views/sfsi_option_view2.php:414
+msgid " The LinkedIn icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "Linkedin ikona može vršiti više radnji. Odaberite ispod koje bi trebala raditi. Ako odaberete nekoliko opcija, tada korisnici mogu odabrati što žele učiniti (pogledaj primjer)"
+
+#: views/sfsi_option_view2.php:402 views/sfsi_option_view2.php:657
+msgid "URL:"
+msgstr "URL:"
+
+#: views/sfsi_option_view2.php:401
+msgid "When clicked on, users will get directed to your Instagram page."
+msgstr "Klikom, korisnici će biti usmjereni na vašu Instagram stranicu."
+
+#: views/sfsi_option_view2.php:392
+msgid "Pin my blog on Pinterest (+1)"
+msgstr "Zakvači moj blog na Pinterest-u (+1)"
+
+#: views/sfsi_option_view2.php:391
+msgid "Visit my Pinterest page at:"
+msgstr "Posjeti moju Pinterest stranicu na:"
+
+#: views/sfsi_option_view2.php:390
+msgid "The Pinterest icon should allow users to..."
+msgstr "Pinterest ikona bi trebala korisnicima dozvoljavati da:"
+
+#: views/sfsi_option_view2.php:384
+msgid " The Pinterest icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "Pinterest ikona može vršiti nekoliko radnji. Odaberite ispod koje bi trebala raditi. Ako odaberete nekoliko opcija, tada korisnici mogu odabrati što žele učiniti (vidi primjer)"
+
+#: views/sfsi_option_view2.php:365
+msgid "ChannelId::"
+msgstr "Identifikacija kanala:"
+
+#: views/sfsi_option_view2.php:359 views/sfsi_option_view2.php:367
+msgid "To find your User ID/Channel ID, login to your YouTube account, click the user icon at the top right corner and select \"Settings\", then click \"Advanced\" under \"Name\" and you will find both your \"Channel ID\" and \"User ID\" under \"Account Information\".:"
+msgstr "Da bi pronašli vašu identifikaciju korisnika/kanala, ulogirajte se na svoj YouTube račun, kliknite korisničku ikonu u gornjem desnom uglu i odaberite 'Postavke', kliknite na 'Napredne postavke' pod 'Ime' i naći ćete i vašu 'Identifikaciju kanala' i 'Korisnika' pod 'Informacije o računu'."
+
+#: views/sfsi_option_view2.php:357
+msgid "UserName:"
+msgstr "Korisničko ime."
+
+#: views/sfsi_option_view2.php:342
+msgid "(allows people to subscribe to you directly, without leaving your blog)"
+msgstr "(dozvoljava ljudima da se pretplate direktno, bez napuštanja vašeg bloga)"
+
+#: views/sfsi_option_view2.php:342
+msgid "Subscribe to me on Youtube"
+msgstr "Pretplatite se na moj Youtube kanal"
+
+#: views/sfsi_option_view2.php:340
+msgid "Visit my Youtube page at:"
+msgstr "Posjetite moju YouTube stranicu na:"
+
+#: views/sfsi_option_view2.php:338
+msgid "The Youtube icon should allow users to... "
+msgstr "YouTube ikona bi trebala dozvoljavati korisnicima da..."
+
+#: views/sfsi_option_view2.php:331
+msgid "The Youtube icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "Youtube ikona može vršiti više radnji. Odaberite ispod koju želite da radi. Ukoliko odaberete više opcija, tada će korisnici moći odabrati što žele napraviti. (vidi primjer)"
+
+#: views/sfsi_option_view2.php:316
+msgid "Tweeting becomes really fun in the Premium Plugin – you can insert tags to automatically pull the title of the story & link to the story, attach pictures & snippets to the Tweets ('Twitter cards') and user Url-shorteners, all leading to more Tweets and traffic for your site"
+msgstr "Tweetanje postaje stvarno zabavno u Premium dodatku – možete umetnuti oznake za automatsko povlačenje naslova priče i veze na priču, priložiti slike i isječke na Tweetove ('Twitter kartice') i skraćivače korisničkih URL-ova, što sve vodi do više Tweetovi i promet za vašu stranicu"
+
+#: views/sfsi_option_view2.php:303
+msgid "Follow me on Twitter:"
+msgstr "Prati me na Twitteru:"
+
+#: views/sfsi_option_view2.php:301
+msgid "Visit me on Twitter:"
+msgstr "Posjeti me na Twitteru:"
+
+#: views/sfsi_option_view2.php:299
+msgid "The Twitter icon should allow users to..."
+msgstr "Twitter ikona bi trebala dozvoljavati korisnicima da..."
+
+#: views/sfsi_option_view2.php:293
+msgid "The Twitter icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "Twitter ikona može vršiti više radnji. Odaberite ispod koju želite da radi. Ukoliko odaberete više opcija, tada će korisnici moći odabrati što žele napraviti. (vidi primjer)"
+
+#: views/sfsi_option_view2.php:268
+msgid "Like my blog on Facebook (+1)"
+msgstr "Like na moj blog na Facebooku (+1)"
+
+#: views/sfsi_option_view2.php:266
+msgid "Visit my Facebook page at:"
+msgstr "Posjetite moju facebook stranicu na:"
+
+#: views/sfsi_option_view2.php:264
+msgid "The Facebook icon should allow users to..."
+msgstr "Facebook ikona bi trebala dozvoljavati korisnicima da..."
+
+#: views/sfsi_option_view2.php:259
+msgid "The Facebook icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "Facebook ikona može vršiti više radnji. Odaberite ispod koju želite da radi. Ukoliko odaberete više opcija, tada će korisnici moći odabrati što žele napraviti. (vidi primjer)"
+
+#: views/sfsi_option_view2.php:243
+msgid "All data will be treated highly confidentially, see the %1s Privacy Policy %2s"
+msgstr "Sa svim će se podacima postupati vrlo povjerljivo, pogledajte Pravila o privatnosti."
+
+#: views/sfsi_option_view2.php:240
+msgid "This will create your FREE account on follow.it, using above email."
+msgstr "Ovim će se kreirati vaš  BESPLATNI račun na follow.it, koristeći gornji email."
+
+#: views/sfsi_option_view2.php:234
+msgid "Click here to benefit from all advantages >"
+msgstr "Kliknite ovdje da biste iskoristili sve prednosti >"
+
+#: views/sfsi_option_view2.php:222
+msgid "of the emails"
+msgstr "E-mailova"
+
+#: views/sfsi_option_view2.php:222
+msgid "Tailor the sender name & subject line"
+msgstr "Prilagodite ime pošiljatelja i temu"
+
+#: views/sfsi_option_view2.php:221
+msgid "when people subscribe or unsubscribe"
+msgstr "kada se ljudi pretplate ili otkažu pretplatu"
+
+#: views/sfsi_option_view2.php:221
+msgid "Get alerts"
+msgstr "Primite upozorenja"
+
+#: views/sfsi_option_view2.php:220
+msgid "by being listed in the follow.it directory"
+msgstr "tako što ćete biti navedeni u  follow.it popisu"
+
+#: views/sfsi_option_view2.php:220
+msgid "Get more traffic"
+msgstr "Ostvarite više prometa"
+
+#: views/sfsi_option_view2.php:215
+msgid "Facebook & Twitter"
+msgstr "Facebook i Twitter"
+
+#: views/sfsi_option_view2.php:215
+msgid "Automatically post on"
+msgstr "Automatski objavite na"
+
+#: views/sfsi_option_view2.php:214
+msgid "interesting statistics"
+msgstr "Zanimljive statistike"
+
+#: views/sfsi_option_view2.php:214
+msgid "subscribers’ emails"
+msgstr "e-mailove pretplatnika"
+
+#: views/sfsi_option_view2.php:214
+msgid "See your"
+msgstr "Vidite vašu"
+
+#: views/sfsi_option_view2.php:213
+msgid "to your site"
+msgstr "na vašu stranicu"
+
+#: views/sfsi_option_view2.php:213
+msgid "More people come back"
+msgstr "Više se ljudi vraća"
+
+#: views/sfsi_option_view2.php:209
+msgid "The service offers many (more) advantages:"
+msgstr "Servis nudi mnogo (više) prednosti"
+
+#: views/sfsi_option_view2.php:206
+msgid "(provider of the service)"
+msgstr "(davatelj usluge)"
+
+#: views/sfsi_option_view2.php:206
+msgid "follow.it icon"
+msgstr "follow.it ikona"
+
+#: views/sfsi_option_view2.php:200
+msgid "Email + Follow text"
+msgstr "E-mail + Prati tekst"
+
+#: views/sfsi_option_view2.php:194
+msgid "Email icon"
+msgstr "Email ikona"
+
+#: views/sfsi_option_view2.php:117
+msgid "For most blogs it’s"
+msgstr "Za većinu blogova to je"
+
+#: views/sfsi_option_view2.php:115
+msgid "RSS URL:"
+msgstr "RSS URL:"
+
+#: views/sfsi_option_view2.php:113
+msgid "When clicked on, users can subscribe via RSS"
+msgstr "Klikom, korisnici se mogu pretplatiti putem RSS"
+
+#: views/sfsi_option_view1.php:711 views/sfsi_option_view2.php:796
+#: views/sfsi_option_view3.php:736 views/sfsi_option_view4.php:985
+#: views/sfsi_option_view5.php:1459 views/sfsi_option_view6.php:185
+#: views/sfsi_option_view6.php:188 views/sfsi_option_view7.php:641
+#: views/sfsi_question3.php:139
+msgid "Save"
+msgstr "Spremi"
+
+#: views/sfsi_option_view1.php:638 views/sfsi_option_view1.php:639
+msgid "Steam"
+msgstr "Steam"
+
+#: views/sfsi_option_view1.php:623 views/sfsi_option_view1.php:624
+msgid "Amazon"
+msgstr "Amazon"
+
+#: views/sfsi_option_view1.php:654 views/sfsi_option_view1.php:655
+msgid "Twitch"
+msgstr "Twitch"
+
+#: views/sfsi_option_view1.php:650 views/sfsi_option_view1.php:651
+msgid "Xing"
+msgstr "Xing"
+
+#: views/sfsi_option_view1.php:601 views/sfsi_option_view1.php:602
+msgid "Houzz"
+msgstr "Houzz"
+
+#: views/sfsi_option_view1.php:606 views/sfsi_option_view1.php:607
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: views/sfsi_option_view1.php:642 views/sfsi_option_view1.php:643
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: views/sfsi_option_view1.php:332 views/sfsi_option_view2.php:668
+msgid "Reddit"
+msgstr "Reddit"
+
+#: views/sfsi_option_view1.php:628 views/sfsi_option_view1.php:629
+msgid "Blogger"
+msgstr "Blogger"
+
+#: views/sfsi_option_view1.php:570 views/sfsi_option_view1.php:571
+msgid "Buffer"
+msgstr "Buffer"
+
+#: views/sfsi_option_view1.php:612 views/sfsi_option_view1.php:613
+msgid "Flicker"
+msgstr "Flicker"
+
+#: views/sfsi_option_view1.php:633 views/sfsi_option_view1.php:634
+msgid "Skype"
+msgstr "Skype"
+
+#: views/sfsi_option_view1.php:580 views/sfsi_option_view1.php:581
+msgid "Soundcloud"
+msgstr "SoundCloud"
+
+#: views/sfsi_option_view1.php:596 views/sfsi_option_view1.php:597
+msgid "Print"
+msgstr "Ispiši"
+
+#: views/sfsi_option_view1.php:666 views/sfsi_option_view1.php:667
+msgid "Yelp"
+msgstr "Yelp"
+
+#: views/sfsi_option_view1.php:320 views/sfsi_option_view2.php:651
+msgid "Snapchat"
+msgstr "SnapChat"
+
+#: views/sfsi_option_view1.php:514 views/sfsi_option_view2.php:760
+#: views/sfsi_option_view5.php:1392 views/sfsi_option_view6.php:223
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:107
+msgid "Custom"
+msgstr "Prilagođeno"
+
+#: views/sfsi_option_view1.php:488 views/sfsi_option_view1.php:520
+msgid "Upload a custom icon if you have other accounts/websites you want to link to."
+msgstr "Prenesite prilagođenu ikonu ukoliko imate druge račune/web stranice koje želite povezati."
+
+#: views/sfsi_option_view1.php:419 views/sfsi_option_view3.php:664
+msgid "Get it now."
+msgstr "Nabavite sada."
+
+#: views/sfsi_option_view1.php:417
+msgid "Upload a custom icon if you have other accounts/websites you want to link to -"
+msgstr "Prenesite prilagođenu ikonu ukoliko imate druge račune/web stranice koje želite povezati."
+
+#: views/sfsi_option_view1.php:415 views/sfsi_option_view3.php:661
+msgid "Premium Feature:"
+msgstr "Premium Mogućnost:"
+
+#: views/sfsi_option_view1.php:408
+msgid "Custom Icon "
+msgstr "Prilagođena ikona"
+
+#: views/sfsi_option_view1.php:309
+msgid "Show this icon if you have a Weibo account."
+msgstr "Prikažite ovu ikonu ako imate Weibo račun."
+
+#: views/sfsi_option_view1.php:303 views/sfsi_option_view2.php:548
+#: views/sfsi_pop_content.php:514
+msgid "Weibo"
+msgstr "Weibo"
+
+#: views/sfsi_option_view1.php:291
+msgid "Show this icon if you have a WeChat account."
+msgstr "Prikažite ovu ikonu ako imate WeChat račun."
+
+#: views/sfsi_option_view1.php:287 views/sfsi_option_view2.php:486
+#: views/sfsi_pop_content.php:534
+msgid "WeChat"
+msgstr "WeChat"
+
+#: views/sfsi_option_view1.php:275
+msgid "Show this icon if you have an OK account."
+msgstr "Prikažite ovu ikonu ako imate OK račun."
+
+#: views/sfsi_option_view1.php:269 views/sfsi_pop_content.php:494
+msgid "Ok"
+msgstr "Ok"
+
+#: views/sfsi_option_view1.php:256
+msgid "Show this icon if you have a VK account."
+msgstr "Prikaži ovu ikonu ukoliko imate VK račun."
+
+#: views/sfsi_option_view1.php:252 views/sfsi_option_view2.php:589
+#: views/sfsi_pop_content.php:474
+msgid "VK"
+msgstr "VK"
+
+#: views/sfsi_option_view1.php:240
+msgid "Show this icon if you have a Telegram account."
+msgstr "Prikaži ovu ikonu ukoliko imate Telegram račun."
+
+#: views/sfsi_option_view1.php:234 views/sfsi_option_view2.php:445
+#: views/sfsi_pop_content.php:454
+msgid "Telegram"
+msgstr "Telegram"
+
+#: views/sfsi_option_view1.php:223
+msgid "Show this icon if you want to allow users to share the page via WhatsApp."
+msgstr "Prikaži ovu ikonu ukoliko želite dozvoliti korisnicima da dijele stranicu putem WhatsApp-a."
+
+#: views/sfsi_option_view1.php:219 views/sfsi_option_view2.php:513
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: views/sfsi_option_view1.php:208
+msgid "Show this icon if you have an Instagram account."
+msgstr "Prikaži ovu ikonu ukoliko imate Instagram račun."
+
+#: views/sfsi_option_view1.php:202 views/sfsi_option_view2.php:399
+#: views/sfsi_pop_content.php:434
+msgid "Instagram"
+msgstr "Instagram"
+
+#: views/sfsi_option_view1.php:190
+msgid "Show this icon if you have a Pinterest account (and you should set up one if you publish new pictures regularly – that can increase your traffic significantly)."
+msgstr "Pokaži ovu ikonu ako imate Pinterest račun (a trebali biste ga napraviti ako redovito objavljujete nove slike - to vam može značajno povećati promet)."
+
+#: views/sfsi_option_view1.php:184 views/sfsi_option_view2.php:379
+#: views/sfsi_pop_content.php:414
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: views/sfsi_option_view1.php:171
+msgid " No.1 network for business purposes. Use this icon if you’re a LinkedInner."
+msgstr "Broj 1. mreža u poslovne svrhe. Koristi ovu ikonu ako ste član Linkedin-a."
+
+#: views/sfsi_option_view1.php:167 views/sfsi_option_view2.php:409
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: views/sfsi_option_view1.php:156
+msgid "Show this icon if you have a youtube account (and you should set up one if you have video content – that can increase your traffic significantly)."
+msgstr "Pokaži ovu ikonu ako imate YouTube račun (a trebali biste ga napraviti ako objavljujete video sadržaje - to vam može značajno povećati promet)."
+
+#: views/sfsi_option_view1.php:156 views/sfsi_option_view1.php:171
+#: views/sfsi_option_view1.php:488 views/sfsi_option_view1.php:520
+msgid "It depends:"
+msgstr "Ovisi:"
+
+#: views/sfsi_option_view1.php:153 views/sfsi_option_view2.php:326
+#: views/sfsi_option_view5.php:796 views/sfsi_pop_content.php:374
+msgid "Youtube"
+msgstr "YouTube"
+
+#: views/sfsi_option_view1.php:137
+msgid "If you have a Twitter-account then adding this icon is a no-brainer. However, similar as with Facebook, even if you don’t have one you should still show this icon so that Twitter-users can share your site."
+msgstr "Ako imate Twitter račun, dodavanje ove ikone je no-brainer. Međutim, slično kao i na Facebooku, čak i ako ga nemate, i dalje biste trebali prikazivati ovu ikonu kako bi korisnici Twittera mogli dijeliti vašu stranicu."
+
+#: views/sfsi_option_view1.php:135
+msgid "Can have a strong promotional effect."
+msgstr "Može imati snažan promotivni učinak."
+
+#: views/sfsi_option_view1.php:131 views/sfsi_option_view2.php:288
+#: views/sfsi_option_view5.php:816 views/sfsi_pop_content.php:336
+msgid "Twitter"
+msgstr "Twitter"
+
+#: views/sfsi_option_view1.php:113
+msgid "Facebook is the giant in the social media world, and even if you don’t have a Facebook account yourself you should display this icon, so that Facebook users can share your site on Facebook. "
+msgstr "Facebook je gigant svijeta društvenih mreža, i čak ako nemate Facebook račun trebali biste prikazivati ovu ikonu, kako bi Facebook korisnici mogli dijeliti vašu stranicu na Facebook-u."
+
+#: views/sfsi_option_view1.php:111
+msgid "Facebook is crucial, esp. for sharing."
+msgstr "Facebook je neophodan, posebno za dijeljenje."
+
+#: views/sfsi_option_view1.php:107 views/sfsi_option_view2.php:255
+#: views/sfsi_option_view5.php:623 views/sfsi_pop_content.php:319
+msgid "Facebook"
+msgstr "Facebook"
+
+#: views/sfsi_option_view1.php:90
+msgid " to make people follow you. Not offering an email subscription option means losing out on future traffic to your site."
+msgstr "da bi vas ljudi pratili. Ne nuditi opciju email pretplate znači gubiti na budućem prometu na stranici."
+
+#: views/sfsi_option_view1.php:90
+msgid "much more effective than social media"
+msgstr "puno učinkovitiji nego društvene mreže"
+
+#: views/sfsi_option_view1.php:90
+msgid "Everybody uses email – that’s why it’s "
+msgstr "Svi koriste email - zato je"
+
+#: views/sfsi_option_view1.php:84
+msgid "Remove credit link"
+msgstr "Ukloniti link kredita"
+
+#: views/sfsi_option_view1.php:77
+msgid "Email is the most effective tool to build up followership."
+msgstr "Email je najučinkovitiji alat za izgradnju sljedbeništva."
+
+#: views/sfsi_option_view1.php:73 views/sfsi_option_view2.php:129
+#: views/sfsi_pop_content.php:302
+msgid "Email"
+msgstr "Email"
+
+#: views/sfsi_option_view1.php:57 views/sfsi_option_view1.php:94
+#: views/sfsi_option_view1.php:117 views/sfsi_option_view1.php:141
+msgid "Read more"
+msgstr "Pročitaj više"
+
+#: views/sfsi_option_view1.php:55
+msgid "here"
+msgstr "ovdje"
+
+#: views/sfsi_option_view1.php:55
+msgid "RSS stands for Really Simply Syndication and is an easy way for people to read your content. You can learn more about it "
+msgstr "RSS je kratica za Stvarno Jednostavno Udruživanje i jednostavan je način za ljude da čitaju vaš sadržaj. Možete saznati više o tom."
+
+#: views/sfsi_option_view1.php:53
+msgid "RSS is still popular, esp. among the tech-savvy crowd."
+msgstr "RSS je i dalje popularan, posebno među publikom koja se razumije u tehnologiju."
+
+#: views/sfsi_option_view1.php:52 views/sfsi_option_view1.php:77
+#: views/sfsi_option_view1.php:111 views/sfsi_option_view1.php:135
+msgid "Strongly recommended:"
+msgstr "Toplo preporučljivo:"
+
+#: views/sfsi_option_view1.php:48 views/sfsi_option_view2.php:111
+#: views/sfsi_pop_content.php:284
+msgid "RSS"
+msgstr "RSS"
+
+#: views/sfsi_option_view1.php:36
+msgid " because people have different preferences, and more options mean that there’s something for everybody, increasing the chances that you get followed and/or shared."
+msgstr "zato što ljudi imaju različite preferencije, i više opcija znači da postoji po nešto za svakoga, povećavajući šanse da vas slijede i/ili dijele."
+
+#: views/sfsi_option_view1.php:35
+msgid "the more icons you offer the better"
+msgstr "što više ikona nudite, to bolje"
+
+#: views/sfsi_option_view1.php:34
+msgid "In general,"
+msgstr "Općenito,"
+
+#: views/sfsi_option_view8.php:870
+msgid "Right Align"
+msgstr "Poravnanje udesno"
+
+#: views/sfsi_option_view5.php:272 views/sfsi_option_view5.php:284
+#: views/sfsi_option_view5.php:299 views/sfsi_option_view6.php:660
+#: views/sfsi_option_view8.php:868
+msgid "Centered"
+msgstr "Centrirano"
+
+#: views/sfsi_option_view8.php:866
+msgid "Left Align"
+msgstr "Poravnanje ulijevo"
+
+#: views/sfsi_option_view8.php:850
+msgid "Bold"
+msgstr "Podebljano"
+
+#: views/sfsi_option_view7.php:371 views/sfsi_option_view8.php:848
+msgid "Italic"
+msgstr "Kurziv"
+
+#: views/sfsi_option_view7.php:369 views/sfsi_option_view8.php:846
+msgid "Oblique"
+msgstr "Koso"
+
+#: views/sfsi_option_view7.php:367 views/sfsi_option_view8.php:844
+msgid "Inherit"
+msgstr "Naslijedi"
+
+#: views/sfsi_option_view7.php:365 views/sfsi_option_view8.php:842
+msgid "Normal"
+msgstr "Normalno"
+
+#: views/sfsi_option_view7.php:349 views/sfsi_option_view8.php:826
+msgid "Verdana"
+msgstr "Verdana"
+
+#: views/sfsi_option_view7.php:347 views/sfsi_option_view8.php:824
+msgid "Trebuchet MS"
+msgstr "Trebuchet MS"
+
+#: views/sfsi_option_view7.php:345 views/sfsi_option_view8.php:822
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: views/sfsi_option_view7.php:343 views/sfsi_option_view8.php:820
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: views/sfsi_option_view7.php:341 views/sfsi_option_view8.php:818
+msgid "Lucida Console"
+msgstr "Lucida Console"
+
+#: views/sfsi_option_view7.php:339 views/sfsi_option_view8.php:816
+msgid "Impact"
+msgstr "Impact"
+
+#: views/sfsi_option_view7.php:337 views/sfsi_option_view8.php:812
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: views/sfsi_option_view7.php:335 views/sfsi_option_view8.php:808
+msgid "Georgia"
+msgstr "Georgia"
+
+#: views/sfsi_option_view7.php:333 views/sfsi_option_view8.php:806
+msgid "Courier New"
+msgstr "Courier New"
+
+#: views/sfsi_option_view7.php:331 views/sfsi_option_view8.php:804
+msgid "Comic Sans MS"
+msgstr "Comic Sans MS"
+
+#: views/sfsi_option_view7.php:329 views/sfsi_option_view8.php:802
+msgid "Calibri"
+msgstr "Calibri"
+
+#: views/sfsi_option_view7.php:327 views/sfsi_option_view8.php:798
+msgid "Arial Black"
+msgstr "Arial Black"
+
+#: views/sfsi_option_view7.php:325 views/sfsi_option_view8.php:792
+msgid "Arial"
+msgstr "Arial"
+
+#: views/sfsi_option_view1.php:714 views/sfsi_option_view2.php:800
+#: views/sfsi_option_view3.php:742 views/sfsi_option_view4.php:989
+#: views/sfsi_option_view5.php:1463 views/sfsi_option_view6.php:707
+#: views/sfsi_option_view7.php:646 views/sfsi_option_view8.php:738
+#: views/sfsi_question3.php:145
+msgid "Collapse area"
+msgstr "Smanji područje"
+
+#: views/sfsi_option_view7.php:448 views/sfsi_option_view8.php:712
+msgid "Check it out."
+msgstr "Provjeri"
+
+#: views/sfsi_option_view8.php:712
+msgid "In the Premium Plugin you can choose to display the text on subscribe form in a font already present in your theme."
+msgstr "U Premium dodatku možete odabrati prikazivanje teksta na obrascu pretplate fontom koji je već prisutan u vašoj temi."
+
+#: views/sfsi_option_view7.php:448 views/sfsi_option_view8.php:712
+msgid "New:"
+msgstr "Novo:"
+
+#: views/sfsi_option_view8.php:676
+msgid "Button color:"
+msgstr "Boja gumba:"
+
+#: views/sfsi_option_view8.php:644
+msgid "Font size"
+msgstr "Veličina fonta"
+
+#: views/sfsi_option_view8.php:560
+msgid "Subscribe button"
+msgstr "Subscribe gumb"
+
+#: views/sfsi_option_view8.php:448
+msgid "Entry field"
+msgstr "Polje unosa"
+
+#: views/sfsi_option_view8.php:430 views/sfsi_option_view8.php:530
+#: views/sfsi_option_view8.php:662
+msgid "Alignment:"
+msgstr "Poravnanje"
+
+#: views/sfsi_option_view7.php:389 views/sfsi_option_view8.php:412
+#: views/sfsi_option_view8.php:538
+msgid "Font size:"
+msgstr "Veličina Fonta"
+
+#: views/sfsi_option_view7.php:381 views/sfsi_option_view8.php:386
+#: views/sfsi_option_view8.php:618
+msgid "Font color:"
+msgstr "Boja fonta:"
+
+#: views/sfsi_option_view7.php:359 views/sfsi_option_view8.php:372
+#: views/sfsi_option_view8.php:492 views/sfsi_option_view8.php:604
+msgid "Font style:"
+msgstr "Stil fonta:"
+
+#: views/sfsi_option_view7.php:319 views/sfsi_option_view8.php:364
+#: views/sfsi_option_view8.php:484 views/sfsi_option_view8.php:596
+msgid "Font:"
+msgstr "Font"
+
+#: views/sfsi_option_view7.php:311 views/sfsi_option_view8.php:344
+#: views/sfsi_option_view8.php:464 views/sfsi_option_view8.php:576
+msgid "Text:"
+msgstr "Tekst:"
+
+#: views/sfsi_option_view8.php:328
+msgid "Text above the entry field"
+msgstr "Tekst iznad polja unosa:"
+
+#: views/sfsi_option_view6.php:684 views/sfsi_option_view8.php:294
+msgid "Background color:"
+msgstr "Boja pozadine:"
+
+#: views/sfsi_option_view8.php:269
+msgid "Color"
+msgstr "Boja"
+
+#: views/sfsi_option_view6.php:574 views/sfsi_option_view6.php:631
+#: views/sfsi_option_view8.php:263 views/sfsi_option_view8.php:418
+#: views/sfsi_option_view8.php:544 views/sfsi_option_view8.php:650
+#: views/subviews/que3/sfsi_que3_place_via_sticky_bar.php:169
+msgid "pixels"
+msgstr "Pixeli"
+
+#: views/sfsi_option_view8.php:257
+msgid "Thickness"
+msgstr "Debljina"
+
+#: views/sfsi_option_view8.php:227
+msgid "Border?"
+msgstr "Obrub?"
+
+#: views/sfsi_option_view8.php:215
+msgid "Width"
+msgstr "Širina"
+
+#: views/sfsi_option_view8.php:207
+msgid "Height"
+msgstr "Visina"
+
+#: views/sfsi_option_view4.php:308 views/sfsi_option_view5.php:317
+#: views/sfsi_option_view5.php:1194 views/sfsi_option_view5.php:1222
+#: views/sfsi_option_view5.php:1416 views/sfsi_option_view5.php:1432
+#: views/sfsi_option_view6.php:680 views/sfsi_option_view7.php:614
+#: views/sfsi_option_view8.php:193 views/sfsi_option_view8.php:243
+#: views/subviews/que3/sfsi_que3_place_via_float.php:183
+#: views/subviews/que3/sfsi_que3_place_via_float.php:221
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:65
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:72
+msgid "No"
+msgstr "Ne"
+
+#: views/sfsi_option_view4.php:305 views/sfsi_option_view5.php:328
+#: views/sfsi_option_view5.php:1190 views/sfsi_option_view5.php:1217
+#: views/sfsi_option_view5.php:1412 views/sfsi_option_view5.php:1428
+#: views/sfsi_option_view6.php:676 views/sfsi_option_view7.php:623
+#: views/sfsi_option_view8.php:185 views/sfsi_option_view8.php:235
+#: views/subviews/que3/sfsi_que3_place_via_float.php:194
+#: views/subviews/que3/sfsi_que3_place_via_float.php:211
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:76
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:83
+msgid "Yes"
+msgstr "Da"
+
+#: views/sfsi_option_view8.php:177
+msgid "Adjust size to space on the website?"
+msgstr "Prilagoditi veličinu prostoru na web stranici?"
+
+#: views/sfsi_option_view8.php:161
+msgid "Overall size & border"
+msgstr "Ukupna veličina i obrub"
+
+#: views/sfsi_option_view8.php:159
+msgid "Define text & design (optional)"
+msgstr "Definirajte tekst i dizajn (opcionalno)"
+
+#: views/sfsi_option_view8.php:120 views/sfsi_option_view8.php:892
+msgid "Get new posts by email:"
+msgstr "Primite nove objave putem email-a."
+
+#: views/sfsi_option_view8.php:105
+msgid "3. Copy & paste HTML code:"
+msgstr "3. Kopiraj i zalijepi HTML kod:"
+
+#: views/sfsi_option_view8.php:104
+msgid " to place it into your codes"
+msgstr "da biste postavili u vaše kodove"
+
+#: views/sfsi_option_view8.php:104
+msgid "[USM_form]"
+msgstr "[USM_form]"
+
+#: views/sfsi_option_view8.php:104
+msgid "Use the shortcode"
+msgstr "Koristite shortcode"
+
+#: views/sfsi_option_view8.php:104
+msgid "2. Shortcode:"
+msgstr "2. Shortcode:"
+
+#: views/sfsi_option_view8.php:103
+msgid " and drag & drop it to the sidebar."
+msgstr "i povucite i ispustite na bočnu traku."
+
+#: views/sfsi_option_view8.php:103
+msgid "widget settings<"
+msgstr "postavke widgeta<"
+
+#: views/sfsi_option_view8.php:103
+msgid "1. Widget:"
+msgstr "1 Widget"
+
+#: views/sfsi_option_view8.php:100
+msgid "You can place the form by different methods:"
+msgstr "Obrazac možete postaviti na različite načine:"
+
+#: views/sfsi_option_view8.php:99
+msgid "Place it on your site"
+msgstr "Postavite na vašu stranicu"
+
+#: views/sfsi_option_view5.php:595 views/sfsi_option_view5.php:615
+#: views/sfsi_option_view5.php:788 views/sfsi_option_view5.php:809
+#: views/sfsi_option_view5.php:985 views/sfsi_option_view6.php:140
+#: views/sfsi_option_view8.php:91
+msgid "Preview:"
+msgstr "Pretpregled:"
+
+#: views/sfsi_option_view8.php:81
+msgid "To get access to the emails who subscribe, interesting statistics about your subscribers, alerts when people subscribe or unsubscribe and to tailor the sender name & the subject line of the emails, please %1s click here.%2s"
+msgstr "Da biste dobili pristup e-porukama koji se pretplaćuju, zanimljive statistike o vašim pretplatnicima, upozorenjima kada se ljudi pretplate ili odjave i kako biste prilagodili ime pošiljatelja i naslov poruke e-pošte, molimo kliknite ovdje."
+
+#: views/sfsi_option_view8.php:76
+msgid "In addition to the email- and follow-icon you can also show a subscription form which maximizes chances that people subscribe to your site."
+msgstr "Uz ikonu e-pošte i 'prati' možete prikazati i obrazac za pretplatu koji povećava šanse da se ljudi pretplate na vašu stranicu."
+
+#: views/sfsi_global_banners.php:294
+msgid "%1$sImportant:%2$s Your website used to be on http (before you enabled an SSL certificate to switch to https). We found share counts for your URLs on http which usually get lost after switch to https (because Facebook etc. provide the counts per url, and an url on https is a different url then one on http).<br><br> %3$sWe found a solution for that so that%4$s your share counts on http and https will be aggregated and your full number of share counts is restored. It is implemented in the Premium Plugin"
+msgstr "%1$sVažno:%2$s Vaša web stranica je bila na http (prije nego što ste omogućili SSL certifikat za prebacivanje na https). Pronašli smo broj dijeljenja za vaše URL-ove na http-u koji se obično gubi nakon prebacivanja na https (jer Facebook itd. daje zbrojeve po URL-u, a URL na https je drugačiji url od onoga na http).<br><br> %3$sPronašli smo rješenje za to tako da %4$s vaš broj udjela na http i https bude agregiran i da se vaš puni broj dijeljenja vrati. Implementiran je u Premium Plugin"
+
+#: views/sfsi_global_banners.php:303
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:138
+msgid "Get it now"
+msgstr "Nabavite sada"
+
+#: views/subviews/que4/animatethem.php:53
+#: views/subviews/que4/animatethem.php:97
+msgid "Premium Plugin"
+msgstr "Premium Plugin"
+
+#: views/sfsi_global_banners.php:132 views/sfsi_global_banners.php:165
+#: views/sfsi_global_banners.php:199 views/sfsi_global_banners.php:234
+#: views/sfsi_global_banners.php:269 views/sfsi_other_banners.php:54
+#: views/sfsi_other_banners.php:105 views/sfsi_other_banners.php:148
+#: views/sfsi_other_banners.php:190 views/sfsi_other_banners.php:235
+#: views/sfsi_other_banners.php:278 views/sfsi_other_banners.php:320
+msgid "Get it now at 20% discount"
+msgstr "Nabavite sada uz 20% popusta"
+
+#: views/sfsi_global_banners.php:38
+msgid "(bulk) copies of your posts & pages and delete them again."
+msgstr "(glavni dio) kopije vaših objava i stranica i obrišite ih kasnije"
+
+#: views/sfsi_global_banners.php:37
+msgid ", the best plugin to make"
+msgstr ",najbolji dodatak za izradu"
+
+#: views/sfsi_global_banners.php:37
+msgid "Copy & Delete Posts"
+msgstr "Kopirajte i brišite objave"
+
+#: views/sfsi_global_banners.php:37
+msgid "We recently launched"
+msgstr "Nedavno smo pokrenuli"
+
+#: libs/sfsi_install_uninstall.php:1796 libs/sfsi_install_uninstall.php:1797
+#: libs/sfsi_widget.php:16
+msgid "Ultimate Social Media Icons"
+msgstr "Ultimate Social Media ikone"
+
+#: libs/sfsi_widget.php:8
+msgid "Ultimate Social Media Icons widgets"
+msgstr "Ultimate Social Media ikone widgeta"
+
+#: libs/sfsi_custom_social_sharing_data.php:258
+msgid "<span id=\"sfsi_twitter_desc_remaining_char\">106</span> Characters Remaining"
+msgstr "<span id=\"sfsi_twitter_desc_remaining_char\">106</span> Preostalo znakova"
+
+#: libs/sfsi_custom_social_sharing_data.php:254
+msgid "This will be used as tweet-text (the link which get shared will be automatically the added at the end). If you don’t enter anything here the tweet text will be used which you defined globally under question 6 on the plugin’s settings page. "
+msgstr "To će se koristiti kao tweet-tekst (veza koja se podijeli, automatski će se dodati na kraju). Ako ovdje ništa ne unesete, koristit će se tweet tekst koji ste definirali općenito pod pitanjem 6 na stranici postavki dodatka."
+
+#: libs/sfsi_custom_social_sharing_data.php:245
+msgid "<strong>Tweet </strong>"
+msgstr "<strong>Tweet </strong>"
+
+#: libs/sfsi_custom_social_sharing_data.php:235
+msgid "This description will be used when this post is shared on Pinterest. Leave it blank to use the post title."
+msgstr "Opis će se koristiti kad se ova objava podijeli na Pinterest-u. Ostavite prazno da biste koristili naslov objave."
+
+#: libs/sfsi_custom_social_sharing_data.php:227
+msgid "<strong>Pinterest description </strong>(leave blank to use the post title)"
+msgstr "<strong>Pinterest description </strong> (ostavite prazno da biste koristili naslov objave)"
+
+#: libs/sfsi_custom_social_sharing_data.php:189
+msgid "<span id=\"sfsi_desc_remaining_char\">297</span> Characters Remaining"
+msgstr "<span id=\"sfsi_desc_remaining_char\">297</span> Preostalo znakova"
+
+#: libs/sfsi_custom_social_sharing_data.php:185
+msgid "This description will be used when shared on Facebook, Linkedin, Twitter and WhatsApp (if you use ‘Twitter cards’). Leave it blank to use the post excerpt. [Developers: this is used by the open graph meta tag «og:description»]"
+msgstr "Ovaj će se opis koristiti kada se podijeli na Facebooku, Linkedinu, Twitteru i WhatsAppu (ako koristite ‘Twitter kartice’). Ostavite prazno da biste koristili izvadak iz posta. [Programeri: ovo koristi metaoznaka otvorenog grafa «og: description»]"
+
+#: libs/sfsi_custom_social_sharing_data.php:176
+msgid "<strong>Description </strong>(leave blank to use the post exerpt)"
+msgstr "<strong>Description </strong> (Ostavite prazno da biste koristili izvadak iz posta)"
+
+#: libs/sfsi_custom_social_sharing_data.php:165
+msgid "<span id=\"sfsi_title_remaining_char\">95</span> Characters Remaining"
+msgstr "<span id=\"sfsi_title_remaining_char\">95</span> Preostalo znakova"
+
+#: libs/sfsi_custom_social_sharing_data.php:160
+msgid "This title will be used when shared on Facebook, Linkedin and WhatsApp. Leave it blank to use the post title. [Developers: this is used by the open graph meta tag «og:title»]"
+msgstr "Ovaj će se naslov korisititi kada se podijeli na Facebooku, Linkedinu i WhatsAppu. Ostavite prazno da biste koristili naslov objave. [Programeri: ovo koristi metaoznaka otvorenog grafa «og: description»]"
+
+#: libs/sfsi_custom_social_sharing_data.php:152
+msgid "<strong>Title </strong>(leave blank to use the post title)"
+msgstr "<strong>Title </strong>(lostavite prazno da biste koristili naslov objave)"
+
+#: libs/sfsi_custom_social_sharing_data.php:129
+#: libs/sfsi_custom_social_sharing_data.php:207
+msgid "<strong>Picture </strong>(For social media sharing)"
+msgstr "<strong>Picture </strong>(Za dijeljenje na društvenim mrežama)"
+
+#: libs/sfsi_subscribe_widget.php:11 libs/sfsi_subscribe_widget.php:14
+msgid "Ultimate Social Subscribe Form"
+msgstr "Ultimate Social obrazac za pretplatu"
+
+#: ultimate_social_media_icons.php:931
+msgid "If you do not know how to do the upgrade, please ask your server team or hosting company to do it for you."
+msgstr "Ako ne znate kako izvršiti nadogradnju, zamolite svog poslužitelja ili hosting tvrtku da to učine za vas."
+
+#: ultimate_social_media_icons.php:926
+msgid ""
+" We noticed you are running your site on a PHP version older than 5.4. Please upgrade to a more recent\n"
+"                        version. This is not only important for running the Ultimate Social Media Plugin, but also for security\n"
+"                        reasons in general."
+msgstr ""
+"Primijetili smo da svoje web mjesto koristite na PHP verziji starijoj od 5.4. Molimo nadogradite na noviju verziju. To nije važno samo za pokretanje dodatka Ultimate Social Media, već i za sigurnost\n"
+"                         razlozi općenito."
+
+#: ultimate_social_media_icons.php:805
+msgid "Check it out"
+msgstr "Pogledajte"
+
+#: ultimate_social_media_icons.php:805
+msgid ", we found a fix for that:"
+msgstr ", pronašli smo rješenje za to:"
+
+#: ultimate_social_media_icons.php:805
+msgid "have a look at our Premium Plugin"
+msgstr "pogledajte naš Premium dodatak"
+
+#: ultimate_social_media_icons.php:805
+msgid "If you don’t want to lose the Facebook share & like counts"
+msgstr "Ako ne želite izgubiti brojke Facebook lajkova i dijeljenja"
+
+#: ultimate_social_media_icons.php:805
+msgid "Recently switched to https?"
+msgstr "Nedavno ste prešli na https?"
+
+#: css/images/index.php:2 css/index.php:3
+#: css/jquery-ui-1.10.4/images/index.php:3 css/jquery-ui-1.10.4/index.php:3
+#: fonts/index.php:3 images/icons_theme/animated_icons/index.php:3
+#: images/icons_theme/badge/index.php:3 images/icons_theme/black/index.php:3
+#: images/icons_theme/chrome_blue/index.php:3
+#: images/icons_theme/chrome_grey/index.php:3
+#: images/icons_theme/cute/index.php:3 images/icons_theme/index.php:3
+#: images/icons_theme/official/index.php:3
+#: images/icons_theme/stitched/index.php:3 images/index.php:3
+#: images/visit_icons/Visit_us_twitter/index.php:3 index.php:3 js/index.php:3
+#: libs/controllers/index.php:3 libs/index.php:3 views/index.php:3
+msgid "Access Denied"
+msgstr "Pristup odbijen"
+
+#. Author of the plugin
+msgid "UltimatelySocial"
+msgstr "UltimatelySocial"
+
+#. Description of the plugin
+msgid "Easy to use and 100% FREE social media plugin which adds social media icons to your website with tons of customization features!."
+msgstr "Jednostavan za upotrebu i 100% BESPLATAN dodatak za društvene medije koji na vašU web mSTRANICU dodaje ikone društvenih medija s mnoštvom mogućnosti prilagodbe !."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://ultimatelysocial.com"
+msgstr "http://ultimatelysocial.com"
+
+#. Plugin Name of the plugin
+msgid "Social Media and Share Icons (Ultimate Social Media)"
+msgstr "Društvene mreže i ikone dijeljenja (Ultimate Social Media)"

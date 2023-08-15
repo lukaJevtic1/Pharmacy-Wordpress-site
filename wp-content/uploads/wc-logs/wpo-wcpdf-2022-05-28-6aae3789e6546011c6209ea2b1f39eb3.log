@@ -1,0 +1,2 @@
+2022-05-28T19:07:33+00:00 INFO Template setting migrated from C:/home/site/wwwroot/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2022-05-28T19:08:30+00:00 CRITICAL Table 'localdb.wp_wcpdf_invoice_number' doesn't exist

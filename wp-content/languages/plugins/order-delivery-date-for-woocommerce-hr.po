@@ -1,0 +1,437 @@
+# Translation of Plugins - Order Delivery Date for WooCommerce - Development (trunk) in Croatian
+# This file is distributed under the same license as the Plugins - Order Delivery Date for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-24 21:33:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Order Delivery Date for WooCommerce - Development (trunk)\n"
+
+#: welcome.php:286
+msgid "Follow %s"
+msgstr "Pratiti %s"
+
+#: welcome.php:239
+msgid "Current Offers"
+msgstr "Trenutne ponude"
+
+#: welcome.php:231
+msgid "Meet the team"
+msgstr "Upoznajte tim"
+
+#: welcome.php:222
+msgid "View all Premium Plugins"
+msgstr "Pogledajte sve premium dodatke"
+
+#: welcome.php:221
+msgid "Visit the Tyche Softwares Website"
+msgstr "Posjetite web-lokaciju Tyche Softwares"
+
+#: welcome.php:218
+msgid "Getting to Know Tyche Softwares"
+msgstr "Upoznajte Tyche Softwares"
+
+#: welcome.php:209
+msgid "View full list of differences between Lite & Pro plugin"
+msgstr "Pogledajte cjelokupni popis razlika između dodatka Lite & Pro"
+
+#: welcome.php:195
+msgid "The Pro version of the plugin allows you to add different delivery settings like Same day cut-off time, Next Day cut-off time or Minimum Delivery Time for each weekday. It also allows you to add different delivery charges for different weekdays."
+msgstr "Pro verzija dodatka omogućuje dodavanje različitih postavki isporuke, kao što su vrijeme prekida istog dana, raščlamba sljedećeg dana ili minimalno vrijeme isporuke za svaki radni dan. Također vam omogućuje dodavanje različitih troškova dostave za različite dane tijekom tjedna."
+
+#: welcome.php:193
+msgid "Different delivery settings for each weekday"
+msgstr "Različite postavke isporuke za svaki dan u tjednu."
+
+#: welcome.php:181
+msgid "The ability to synchronise deliveries to the google calendar helps administrator or store manager to manage all the things in a single calendar."
+msgstr "Mogućnost sinkronizacije isporuke u Google kalendar pomaže administratoru ili upravitelju trgovine da upravlja svim stvarima u kalendaru."
+
+#: welcome.php:179
+msgid "Synchronise Deliveries with Google Calendar"
+msgstr "Sinkronizirajte isporuku s Gugl kalendarom"
+
+#: welcome.php:168 welcome.php:175 welcome.php:204
+msgid "Order Delivery Date for WooCommerce Lite"
+msgstr "Datum isporuke narudžbe za WooCommerce Lite"
+
+#: welcome.php:160
+msgid "The provision for allowing Delivery Time along with the Delivery Date on the checkout page makes the delivery more accurate. Delivering products on customer's preferred date and time improves your customers service."
+msgstr "Narudžba koja omogućuje vrijeme isporuke zajedno s datumom dostave na stranici za naplatu čini prikazivanje točnijim. Isporuka proizvoda na željeni datum i vrijeme klijenta poboljšava vašu uslugu klijentima."
+
+#: welcome.php:158
+msgid "Delivery Time along with Delivery Date"
+msgstr "Vrijeme isporuke zajedno s datumom isporuke"
+
+#: welcome.php:149 welcome.php:162 welcome.php:184 welcome.php:198
+msgid "Learn More"
+msgstr "Saznaj Više"
+
+#: welcome.php:146
+msgid "The ability to set different delivery schedule for different WooCommerce shipping zones, shipping classes and product categories is very useful for the businesses like food packet deliveries, cake shops etc which deals with delivery in different shipping zones."
+msgstr "Mogućnost postavljanja različitog rasporeda isporuke za različite WooCommerce zone slanja, klase dostave i kategorije proizvoda je vrlo korisna za kompanije kao što su dostava paketa hrane, slastičarne itd. koje se bave isporukom u različitim zonama transporta."
+
+#: welcome.php:144
+msgid "Create Custom Delivery Schedules"
+msgstr "Kreirajte rasporede prilagođene isporuke"
+
+#: welcome.php:135
+msgid "The Order Delivery Date Pro plugin gives you features where you can allow customers to choose a Delivery Time along with Date as compared to Lite Plugin. Here are some other notable features the Pro version provides."
+msgstr "Order Delivery Date Pro dodatak vam pruža mogućnosti gdje možete dozvoliti korisnicima da izaberu vrijeme isporuke zajedno s datumom u usporedbi s  Lite dodatkom. Evo nekih drugih opcija koje pruža Pro izdanje."
+
+#: welcome.php:133
+msgid "Know more about Order Delivery Date Pro"
+msgstr "Saznaj više o Order Delivery Date Pro dodatku"
+
+#: welcome.php:123
+msgid "Click Here to go to Order Delivery Date Settings page"
+msgstr "Kliknite ovdje kako biste prešli na stranicu Postavke datuma isporuke narudžbe"
+
+#: welcome.php:121
+msgid "To start allowing customers to select their preferred delivery date, simply activate the Enable Delivery Date checkbox from under Order Delivery Date menu."
+msgstr "Da biste omogućili korisnicima da izaberu željeni datum isporuke, jednostavno aktivirajte polje za potvrdu Omogući datum isporuke iz izbornika Datum isporuke narudžbe."
+
+#: welcome.php:119
+msgid "Enable Delivery Date Capture"
+msgstr "Omogući snimanje datuma isporuke"
+
+#: welcome.php:115 welcome.php:140
+msgid "Order Delivery Date Lite"
+msgstr "Order Delivery Date Lite"
+
+#: welcome.php:111
+msgid "Get Started with Order Delivery Date Lite"
+msgstr "Započni rad sa Order Delivery Date Lite"
+
+#: welcome.php:101
+msgid "Thank you for activating or updating to the latest version of Order Delivery Date Lite! If you're a first time user, welcome! You're well to accept deliveries with customer preferred delivery date. "
+msgstr "Hvala vam što ste aktivirali ili ažurirali najnovije izdanje Order Delivery Date Lite! Ako ste prvi put korisnik, dobrodošli! Na dobrom ste putu da prihvatite isporuke sa željenim datumom."
+
+#: welcome.php:57
+msgid "Welcome to Order Delivery Date Lite"
+msgstr "Dobro došli u Order Delivery Date Lite"
+
+#: welcome.php:56
+msgid "Welcome to Order Delivery Date Lite %s"
+msgstr "Dobro došli u Order Delivery Date Lite %s"
+
+#: order_delivery_date.php:375
+msgid "Booked"
+msgstr "Rezerviran"
+
+#: order_delivery_date.php:374
+msgid "Holiday"
+msgstr "Praznik"
+
+#: orddd-lite-settings.php:340
+msgid "Date:"
+msgstr "Datum:"
+
+#: orddd-lite-settings.php:331
+msgid "Name:"
+msgstr "Ime:"
+
+#: orddd-lite-settings.php:324
+msgid "Add Holiday"
+msgstr "Dodaj praznik"
+
+#: orddd-lite-process.php:284
+msgid "is a required field."
+msgstr "obavezno polje."
+
+#: orddd-lite-settings.php:233
+msgid "Add the Delivery Date field on the cart page along with the Checkout page."
+msgstr "Dodajte polje Datum isporuke na stranicu košarice zajedno s stranicom potvrde kupovine."
+
+#: orddd-lite-settings.php:229
+msgid "Delivery Date field on Cart page:"
+msgstr "Polje datuma isporuke na stranici košarice:"
+
+#. Author URI of the plugin/theme
+msgid "http://www.tychesoftwares.com/about"
+msgstr "http://www.tychesoftwares.com/about"
+
+#. Author of the plugin/theme
+msgid "Tyche Softwares"
+msgstr "Tyche Softwares"
+
+#. Description of the plugin/theme
+msgid "This plugin allows customers to choose their preferred Order Delivery Date during checkout."
+msgstr "Ovaj dodatak omogućava korisnicima da izaberu željeni datum isporuke narudžbe tokom potvrde kupovine."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.tychesoftwares.com/store/free-plugin/order-delivery-date-on-checkout/"
+msgstr "http://www.tychesoftwares.com/store/free-plugin/order-delivery-date-on-checkout/"
+
+#. Plugin Name of the plugin/theme
+msgid "Order Delivery Date for WooCommerce (Lite version)"
+msgstr "Order Delivery Date for WooCommerce (Lite version)"
+
+#: order_delivery_date.php:373
+msgid "Clear"
+msgstr "Obriši"
+
+#: order_delivery_date.php:192
+msgid "Order Delivery Date for WooCommerce (Lite version) plugin requires WooCommerce installed and activate."
+msgstr "Order Delivery Date for WooCommerce (Lite version) traži instaliran i aktiviran WooCommerce dodatak"
+
+#: orddd-lite-settings.php:787
+msgid "Featured Products"
+msgstr "Istaknuti proizvodi"
+
+#: orddd-lite-settings.php:779
+msgid "Virtual Products"
+msgstr "Virtualni proizvodi"
+
+#: orddd-lite-settings.php:765
+msgid "Preview theme:"
+msgstr "Pretpregled teme:"
+
+#: orddd-lite-settings.php:694
+msgid "After Order Notes"
+msgstr "Bilješke nakon narudžbe"
+
+#: orddd-lite-settings.php:693
+msgid "Before Order Notes"
+msgstr "Bilješke prije narudžbe"
+
+#: orddd-lite-settings.php:692
+msgid "In Shipping Section"
+msgstr "U odjeljku za transport"
+
+#: orddd-lite-settings.php:691
+msgid "In Billing Section"
+msgstr "U odjeljku za naplatu"
+
+#: orddd-lite-settings.php:443
+msgid "Weekdays:"
+msgstr "Radni dani:"
+
+#: orddd-lite-settings.php:392 orddd-lite-settings.php:400
+#: orddd-lite-settings.php:408
+msgid "Save Settings"
+msgstr "Spremi postavke"
+
+#: orddd-lite-settings.php:384 orddd-lite-settings.php:412
+msgid "Holidays"
+msgstr "Praznici"
+
+#: orddd-lite-settings.php:383
+msgid "Appearance"
+msgstr "Izgled"
+
+#: orddd-lite-settings.php:382
+msgid "Date Settings"
+msgstr "Postavke datuma"
+
+#: orddd-lite-settings.php:251
+msgid "<br>Disable the Delivery Date on the Checkout page for Virtual products and Featured products."
+msgstr "<br>Onemogućite datum isporuke na stranici za naplatu za virtualne proizvode i istaknute proizvode."
+
+#: orddd-lite-settings.php:247
+msgid "Disable the Delivery Date Field for:"
+msgstr "Onemogući polje za datum isporuke za:"
+
+#: orddd-lite-settings.php:242
+msgid "Select the theme for the calendar which blends with the design of your website."
+msgstr "Izaberite temu kalendara koji se uklapa s dizajnom vaše web-stranice."
+
+#: orddd-lite-settings.php:238
+msgid "Theme:"
+msgstr "Tema:"
+
+#: orddd-lite-settings.php:224
+msgid "</br>The Delivery Date field will be displayed in the selected section.</br><i>Note: WooCommerce automatically hides the Shipping section fields for Virtual products.</i>"
+msgstr "</br>U odabranom odjeljku će se polje Datum isporuke prikazati.</br><i>Napomena: WooCommerce automatski sakriva polja Odjeljka dostave za virtualne proizvode.</i>"
+
+#: orddd-lite-settings.php:220
+msgid "Field placement on the Checkout page:"
+msgstr "Položaj polja na stranici za naplatu:"
+
+#: orddd-lite-settings.php:215
+msgid "The number of months to be shown on the calendar."
+msgstr "Broj mjeseci koji će se prikazati u kalendaru."
+
+#: orddd-lite-settings.php:211
+msgid "Number of Months:"
+msgstr "Broj mjeseci:"
+
+#: orddd-lite-settings.php:206
+msgid "Choose the note to be displayed below the delivery date field on checkout page."
+msgstr "Izaberite bilješku koja će se prikazati ispod polja za datum isporuke na stranici za naplatu."
+
+#: orddd-lite-settings.php:202
+msgid "Field Note Text:"
+msgstr "Tekst polja za bilješku:"
+
+#: orddd-lite-settings.php:197
+msgid "Choose the placeholder text that is to be displayed for the field on checkout page."
+msgstr "Izaberite privremeni tekst koji će biti prikazan unutar polja na stranici za naplatu."
+
+#: orddd-lite-settings.php:193
+msgid "Field Placeholder Text:"
+msgstr "Privremeni tekst polja:"
+
+#: orddd-lite-settings.php:188
+msgid "Choose the label that is to be displayed for the field on checkout page."
+msgstr "Izaberite oznaku koja će se prikazati za polje na stranici za naplatu."
+
+#: orddd-lite-settings.php:184
+msgid "Field Label:"
+msgstr "Oznaka polja:"
+
+#: orddd-lite-settings.php:179
+msgid "Choose the first day of week displayed on the Delivery Date calendar."
+msgstr "Izaberite prvi dan u tjednu prikazan u kalendaru Datum isporuke."
+
+#: orddd-lite-settings.php:175
+msgid "First Day of Week:"
+msgstr "Prvi dan u tjednu: "
+
+#: orddd-lite-settings.php:170
+msgid "The format in which the Delivery Date appears to the customers on the checkout page once the date is selected."
+msgstr "Format u kojem se datum isporuke pojavljuje klijentima na stranici za naplatu nakon odabira datuma. Izaberite prvi dan u tjednu prikazan u kalendaru Datum isporuke."
+
+#: orddd-lite-settings.php:166
+msgid "Date Format:"
+msgstr "Format datuma:"
+
+#: orddd-lite-settings.php:161
+msgid "Choose a Language."
+msgstr "Odaberite jezik."
+
+#: orddd-lite-settings.php:157
+msgid "Calendar Language:"
+msgstr "Jezik kalendara:"
+
+#: orddd-lite-settings.php:150
+msgid "Calendar Appearance"
+msgstr "Izgled kalendara"
+
+#: orddd-lite-settings.php:96
+msgid "If selected, then the Minimum Delivery Time (in hours) will be applied on the non working weekdays which are unchecked in Delivery Weekdays. If unchecked, then it will not be applied. For example, if Minimum Delivery Time (in hours) is set to 48 hours and Saturday is disabled for delivery. Now if a customer visits the website on Firday, then the first available date will be Monday and not Sunday."
+msgstr "Ako je odabran, tada će se minimalni rok isporuke (u satima) primijeniti na neradne dane koji nisu označeni u danima isporuke. Ako nije odabrano, neće se primijeniti. Na primjer, ako je Minimalno vrijeme isporuke (u satima) postavljeno na 48 sati, a subota je onemogućeno za isporuku. Sada, ako korisnik posjeti web-stranicu u petak, onda će prvi datum biti dostupan u ponedjeljak, a ne u nedjelju."
+
+#: orddd-lite-settings.php:92
+msgid "Apply Minimum Delivery Time for non working weekdays:"
+msgstr "Primijenite minimalni rok isporuke za neradne dane u toku tjedna:"
+
+#: orddd-lite-settings.php:87
+msgid "Auto-populate first available Delivery date when the checkout page loads."
+msgstr "Automatsko popunjavanje prvog dostupnog datuma isporuke kada se učita stranica naplata."
+
+#: orddd-lite-settings.php:83
+msgid "Auto-populate first available Delivery date:"
+msgstr "Automatsko popunjavanje prvog dostupnog datuma isporuke kada se učita stranica naplata."
+
+#: orddd-lite-settings.php:78
+msgid "Enable default sorting of orders (in descending order) by Delivery Date on WooCommerce -> Orders page"
+msgstr "Omogućite podrazumijevano sortiranje narudžbi (silaznim redoslijedom) prema datumu isporuke na stranici WooCommerce -> Narudžbe"
+
+#: orddd-lite-settings.php:74
+msgid "Sort on WooCommerce Orders Page:"
+msgstr "Sortiraj na WooCommerce stranci za narudžbe:"
+
+#: orddd-lite-settings.php:69
+msgid "Maximum deliveries/orders per day."
+msgstr "Maksimalne isporuke / narudžbe po danu."
+
+#: orddd-lite-settings.php:65
+msgid "Lockout date after X orders:"
+msgstr "Datum zaključavanja nakon X narudžbi:"
+
+#: orddd-lite-settings.php:60
+msgid "Selection of delivery date on the checkout page will become mandatory."
+msgstr "Izbor datuma isporuke na stranici za naplatu postaje obavezan."
+
+#: orddd-lite-settings.php:56
+msgid "Mandatory field?:"
+msgstr "Obavezno polje?:"
+
+#: orddd-lite-settings.php:51
+msgid "Number of dates available for delivery."
+msgstr "Broj dostupnih datuma za isporuku."
+
+#: orddd-lite-settings.php:47
+msgid "Number of dates to choose:"
+msgstr "Broj datuma za izbor:"
+
+#: orddd-lite-settings.php:42
+msgid "Minimum number of hours required to prepare for delivery."
+msgstr "Minimalni broj sati potrebnih za pripremu isporuke."
+
+#: orddd-lite-settings.php:38
+msgid "Minimum Delivery time (in hours):"
+msgstr "Minimalno vrijeme isporuke (u satima):"
+
+#: orddd-lite-settings.php:33
+msgid "Select weekdays for delivery."
+msgstr "Izaberite dane za isporuku."
+
+#: orddd-lite-settings.php:29
+msgid "Delivery Days:"
+msgstr "Dani dostave:"
+
+#: orddd-lite-settings.php:24
+msgid "Enable Delivery Date capture on the checkout page."
+msgstr "Omogućite snimanje datuma isporuke na stranici za naplatu."
+
+#: orddd-lite-settings.php:20
+msgid "Enable Delivery Date:"
+msgstr "Omogući datum isporuke:"
+
+#: orddd-lite-settings.php:13 orddd-lite-settings.php:377
+msgid "Order Delivery Date Settings"
+msgstr "Podešavanje datuma isporuke narudžbe"
+
+#: orddd-lite-config.php:126 uninstall.php:27
+msgid "Saturday"
+msgstr "Subota"
+
+#: orddd-lite-config.php:125 uninstall.php:26
+msgid "Friday"
+msgstr "Petak"
+
+#: orddd-lite-config.php:124 uninstall.php:25
+msgid "Thursday"
+msgstr "Četvrtak"
+
+#: orddd-lite-config.php:123 uninstall.php:24
+msgid "Wednesday"
+msgstr "Srijeda"
+
+#: orddd-lite-config.php:122 uninstall.php:23
+msgid "Tuesday"
+msgstr "Utorak"
+
+#: orddd-lite-config.php:121 uninstall.php:22
+msgid "Monday"
+msgstr "Ponedjeljak"
+
+#: orddd-lite-config.php:120 uninstall.php:21
+msgid "Sunday"
+msgstr "Nedjelja"
+
+#: class-view-holidays.php:83
+msgid "Date"
+msgstr "Datum"
+
+#: class-view-holidays.php:82
+msgid "Name"
+msgstr "Ime"
+
+#: class-view-holidays.php:42
+msgid "Delete"
+msgstr "Obriši"
+
+#: class-view-holidays.php:33
+msgid "holidays"
+msgstr "praznici"
+
+#: class-view-holidays.php:32
+msgid "holiday"
+msgstr "praznik"
